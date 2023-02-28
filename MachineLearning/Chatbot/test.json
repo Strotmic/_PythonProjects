@@ -1,0 +1,38 @@
+{"intents": [
+    {"tag": "greeting",
+     "patterns": ["Hi", "How are you", "Is anyone there?", "Hello", "Good day", "Whats up", " How do you do", " Nice to meet you ", " Pleased to meet you", " How have you been", " Good Morning ", " Good Afternoon ", " Good Evening", " Dear Sir or Madam", " To Whom It May Concern", " To the Hiring Manager", " Dear Mr X ", " Mrs X ", " Ms X ", " Miss X ", " Prof X ", " Dr X", " Hello ", " Hi ", " Hey", " Morning ", " Afternoon ", " Evening", " How are you doing ", " How’s it going", " Nice to see you ", " It’s great to see you ", " Good to see you", " Long-time no see ", " It’s been a while", " Yo", " What’s up", " Sup", " Heyyy", " Lovely to meet you ", " Lovely to see you", " Are you OK", " Alright, mate ", " Alright", " Hiya", " What’s the craic", " Ahoy", " Hello stranger", " ‘Ello, gov’nor", " Goodmorrow", " What’s crackin’", " What’s up buttercup", " Howdy", "What are simple greetings", "How do you say hello in a cute way", "How do you greet someone in chat", "How do you respectfully greet someone", "Next article", "Previous article"],
+     "responses": ["Hello!", "Good to see you again!", "Hi there, how can I help?", " How do you do", " Nice to meet you ", " Pleased to meet you", " How have you been", " Good Morning ", " Good Afternoon ", " Good Evening", " Dear Sir or Madam", " To Whom It May Concern", " To the Hiring Manager", " Dear Mr  ", " Mrs  ", " Ms  ", " Miss  ", " Prof  ", " Dr ", " Hello ", " Hi ", " Hey", " Morning ", " Afternoon ", " Evening", " How are you doing ", " How’s it going", " Nice to see you ", " It’s great to see you ", " Good to see you", " Long-time no see ", " It’s been a while", " Yo", " What’s up", " Sup", " Heyyy", " Lovely to meet you ", " Lovely to see you", " Are you OK", " Alright, mate ", " Alright", " Hiya", " What’s the craic", " Ahoy", " Hello stranger", " ‘Ello, gov’nor", " Goodmorrow", " What’s crackin’", " What’s up buttercup", " Howdy", "What are simple greetings", "How do you say hello in a cute way", "How do you greet someone in chat", "How do you respectfully greet someone", "Next article", "Previous article"],
+     "context_set": ""
+    },
+    {"tag": "goodbye",
+     "patterns": ["cya", "See you later", "Goodbye", "I am Leaving", "Have a Good day"],
+     "responses": ["Sad to see you go :(", "Talk to you later", "Goodbye!"],
+     "context_set": ""
+    },
+    {"tag": "age",
+     "patterns": ["how old", "how old is tim", "what is your age", "how old are you", "age?"],
+     "responses": ["I am 18 years old!", "18 years young!"],
+     "context_set": ""
+    },
+    {"tag": "name",
+     "patterns": ["what is your name", "what should I call you", "whats your name?"],
+     "responses": ["You can call me Tim.", "I'm Tim!", "I'm Tim aka Tech With Tim."],
+     "context_set": ""
+    },
+    {"tag": "shop",
+     "patterns": ["Id like to buy something", "whats on the menu", "what do you reccommend?", "could i get something to eat"],
+     "responses": ["We sell chocolate chip cookies for $2!", "Cookies are on the menu!"],
+     "context_set": ""
+    },
+    {"tag": "hours",
+     "patterns": ["when are you guys open", "what are your hours", "hours of operation"],
+     "responses": ["We are open 7am-4pm Monday-Friday!"],
+     "context_set": ""
+    },
+    {"tag": "thankings",
+     "patterns": ["i'm glad you're here", "thanks", "thank you"],
+     "responses": ["No problem, always here to help", "You're welcome", "I'm glad i could help you", "Always ready to help."],
+     "context_set": ""
+    }
+]
+}

@@ -1,0 +1,18 @@
+{%extends "Main/base.html" %} {%block body_block%}
+{%load static%}
+<div class="index"></div>
+<div class="jumbotron m-0 indexWidth container2" id="blogs">
+<ol>
+    {% for i in blogs %}
+    <div>
+        <h1 >{{i.title}}</h1>
+        <p>{{i.article}}</p>
+        <img class="w-75" src="{{i.picture.url}}"  alt="">
+    </div>
+    
+    {%endfor%}
+</ol>
+</div>
+
+
+{% endblock %}

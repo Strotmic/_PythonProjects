@@ -1,0 +1,565 @@
+Id,Gebruiker,Kaart,Hostnaam,Serienummer,Object ID,Merk/Fabrikant,Soort,Specificatie (Artikel),Vestiging,Status (Algemene gegevens),Lokaal,Ordernummer,IP-adres,Aantekeningen
+1,,Hardware,LAP0105,2CE001C5TG,LAP0105,HP,Laptop,Elitebook 8530w/T9600 4gb 500GB (VC223EA),GP - Gemeentepunt,Actief - Mobiel,IT,Opgezet los van Netwerk ZWE,zit NIET in gemeentelijk netwerk,"30-10-2014 15:40 Luc Velghe: 
+- was vroeger BIB611
+- nu opgezet met standaard windows preload - los van netwerk"
+2,,Hardware,LAP0092,CNU408BBK5,LAP0092,HP,Laptop,Probook 650 - G1 i5-4200 4+4GB 500GB (H5G79EA),GSKLI100 - Gemeenteschool Klim-op blok 100,Actief - Mobiel,,,,
+3,,Hardware,LAP0097,CNU408BBJK,LAP0097,HP,Laptop,Probook 650 - G1 i5-4200 4+4GB 500GB (H5G79EA),TRANSFODKO - Transfo Directeurswoning,Actief,,,,19-11-2018: installatie Windows 7 + nieuwe labels
+4,,Hardware,LAP0094,CNU408BBK0,LAP0094,HP,Laptop,Probook 650 - G1 i5-4200 4+4GB 500GB (H5G79EA),DKO Klim-op,Actief,,,,"06-12-2016 17:17 Luc Velghe: opnieuw uitgerold op windows10  -  reden was dat de pc niet meer goed herkend werd in Intune ... en client goed krijgen lukte niet
+02-03-2015 11:20 Kurt De Laere: Moederbord vervangen door Realdolmen"
+5,"KlimOp, Schoonmaak",Hardware,LAP0087,CNU4019V3P,LAP0087,HP,Laptop,Probook 650 G1 i5-4200 4GB 500GB,Zwevegem,Actief,,,,
+6,,Hardware,LAP0085,CNU4019V2Z,LAP0085,HP,Laptop,Probook 650 G1 i5-4200 4GB 500GB,TRANSFODKO - Transfo Directeurswoning,Actief,,,,21-04-2017 08:42 Luc Velghe: opnieuw uitgerold op Windows 10
+7,,Hardware,LAP0101,CNU408BC3B,LAP0101,HP,Laptop,Probook 650 - G1 i5-4200 4+4GB 500GB (H5G79EA),GP - Gemeentepunt,Actief,Vrije tijd,,,"zie ticket: I180718 008 , graag 4 laptops voor Zafe
+01-02-2018 13:27 Luc Velghe: opnieuw uitgerold met W10"
+8,,Hardware,LAP0103,CNU408BCF0,LAP0103,HP,Laptop,Probook 650 - G1 i5-4200 4+4GB 500GB (H5G79EA),GP - Gemeentepunt,Actief,Vrije tijd,,,
+9,"ICT, Uitleenpool",Hardware,LAP0095,CNU408BBKD,LAP0095,HP,Laptop,Probook 650 - G1 i5-4200 4+4GB 500GB (H5G79EA),GP - Gemeentepunt,Actief - Mobiel,IT,,,"Uitleenpool laptop
+
+-> Domain computers
+-> UG_Deploy_AdobeAcrobatReader, UG_Deploy_BelgiumeID, UG_Deploy_Firefox, UG_Deploy_HPSupportAssistant, UG_Deploy_MsOnlineAss, UG_Deploy_VERIFIEER_Printer_GEM
+-> UG_Draadloos_Toegang
+
+-> DHCP benaming aangepast naar Uitleenpool LAP0095 (IP adressen: 172.19.2.23 en 172.20.0.187)"
+10,,Hardware,LAP0098,CNU408BBK8,LAP0098,HP,Laptop,Probook 650 - G1 i5-4200 4+4GB 500GB (H5G79EA),TRANSFODKO - Transfo Directeurswoning,Actief,,,,
+11,"Staelens, Annelies",Hardware,,PF26HPW1,LAP0448,Lenovo,Laptop,ThinkPad T590 20N4-0033MB,GP - Gemeentepunt,Actief,Vrije tijd,PO00286494/SOQ600325,172.19.2.174,
+12,"Veys, Anne-Mie",Hardware,,SPF26NG0M,LAP0475,Lenovo,Laptop,ThinkPad T590 20N4-0033MB,BIB - Bibliotheek,Actief,,PO00286494/SOQ600325,,
+13,,Hardware,,PC1FBRPQ,LAP0486,Lenovo,Laptop,"ThinkPad X390 i5-8265U 8/256SSD 20Q00056MB 13""",Stock IT,Actief,,PO00286494/SOQ600325,,
+14,"Vanmeenen, Laurence",Hardware,,PF26K6X4,LAP0465,Lenovo,Laptop,ThinkPad T590 20N4-0033MB,GP - Gemeentepunt,Actief,,PO00286494/SOQ600325,,
+15,"Weedaege, Lut",Hardware,,5CG62906JY,LAP0218,HP,Laptop,Elitebook 850 G3,GP - Gemeentepunt,Actief,,,,
+16,,Hardware,,PC1FVJY2_7,LAP0487,Lenovo,Laptop,"ThinkPad X390 i5-8265U 8/256SSD 20Q00056MB 13""",Stock IT,Actief,,PO00286494/SOQ600325,172.19.2.155,
+17,"Vromant, Kristof",Hardware,,5CG82956V9,LAP0335,HP,Laptop,Elitebook 850 G3 - i5-6200U (L3D23AV),GP - Gemeentepunt,Actief,Schepenen,84V697607001,,
+18,"Declercq, Goedele",Hardware,,5CG62906L8,LAP0223,HP,Laptop,Elitebook 850 G3,WZC,Actief,,,,I200529 0064 laptops gewenst
+19,"Decraene, Jolien",Hardware,,5CB32500RP,LAP0067,HP,Laptop,Probook 6570b i5-3210M 15 4GB/500 (C5A59EA),GSKLI200 - Gemeenteschool Klim-op blok 200,Non Actief,,,,
+20,"Orins, Bart",Hardware,,PF26KMN0,LAP0445,Lenovo,Laptop,ThinkPad T590 20N4-0033MB,GP - Gemeentepunt,Actief,IT,PO00286494/SOQ600325,172.19.2.171,
+21,"Desplenter, Cathy",Hardware,,5CG8293K40,LAP0349,HP,Laptop,Elitebook 850 G3 - i5-6200U (L3D23AV),GP - Gemeentepunt,Actief,,84V685215001,,
+22,,Hardware,,CND618324V,LAP0201,HP,Laptop,250 G4 N2840 4Gb 500Gb (N0Z80EA) + 4Gb ram,GSDGK - Gemeenteschool De Groene Kouter,Actief,,,,
+23,"Dewitte, Bert",Hardware,,5CG7292SHG,LAP0241,HP,Laptop,Elitebook 850 G3,ATD - algemeen technische dienst,Actief,,,,
+24,,Hardware,,PC1FBRNY,LAP0500,Lenovo,Laptop,ThinkPad X390 i5-8265U 2x8/256GB Win10pro 20Q0000QMB,WZC,Actief,,PO00273812,,
+25,,Hardware,,,LAP0535,Lenovo,Laptop,Thinkpad T15 Gen 1,Stock IT,Actief,,,,
+26,"Vanhaesebrouck, Tine",Hardware,,5CD72964WX,LAP0265,HP,Laptop,Probook 450 G4 i7-7500u - 8GB 256GB-SSD (Y8A30EA),GSKLI200 - Gemeenteschool Klim-op blok 200,Actief - Mobiel,,,,24-08-2017 10:42 Luc Velghe: meegenomen door Bart desmet  -zorgt zelf voor installatie
+27,"Vanhalewyn, Els",Hardware,,5CG8293K3N,LAP0348,HP,Laptop,Elitebook 850 G3 - i5-6200U (L3D23AV),GP - Gemeentepunt,Actief,OCMW,84V685215001,,
+28,"Vandaele, Daphne",Hardware,,5CG9372M51,LAP0395,HP,Laptop,Probook 650 G5 - I5-8265U,Zwevegem,Actief,,SOQ593623/1,,
+29,"Desplenter, Cathy",Hardware,,SPF26HVVK,LAP0476,Lenovo,Laptop,ThinkPad T590 20N4-0033MB,GP - Gemeentepunt,Actief,,PO00286494/SOQ600325,,
+30,"Debeuf, Lien",Hardware,,PF1X4N37,LAP0457,Lenovo,Laptop,ThinkPad T590 20N4-0033MB,Zwevegem,Actief,,PO00286494/SOQ600325,172.19.2.183,
+31,,Hardware,,,LAP0590,Lenovo,Laptop,Thinkpad T15 Gen 1,Stock IT,Non Actief,,,,
+32,"Zimmermann, Luna",Hardware,,5CB3380MRW,LAP0072,HP,Laptop,Probook 6570b i5-3230M,GSKLI200 - Gemeenteschool Klim-op blok 200,Non Actief,,,,
+33,,Hardware,,5CG53824SB,LAP0180,HP,Laptop,Probook 650 G1 i5-4210 8GB 500 GB (F1P89ET),TRANSFODKO - Transfo Directeurswoning,Actief - Mobiel,,,,19/11/2018: installatie Windows 7 + nieuwe labels
+34,,Hardware,,SCNU12314Y,LAP0082,HP,Laptop,Probook 4710s (VC322EA),GSHV Vierkeer school Heestert,Actief - Mobiel,,,,
+35,,Hardware,,CND54117QN,LAP0169,HP,Laptop,250 G4 N2840 4Gb 500Gb (N0Z80EA),GSHV Vierkeer school Heestert,Actief,,,,
+36,,Hardware,,SPF3GBZHP,LAP0600,Lenovo,Laptop,Thinkpad L15 Gen 2,Stock IT,Non Actief,,PO00332498/SOQ626140/1,,
+37,,Hardware,,5CG4450QYC,LAP0153,HP,Laptop,Probook 650 G1 i5-4210 8GB 500 GB (F1P89ET),GSKLI100 - Gemeenteschool Klim-op blok 100,Offline (Niet meer AD en DHCP),107,,,
+38,,Hardware,,5CB3380MRZ,LAP0074,HP,Laptop,Probook 6570b i5-3230M,GSKLI100 - Gemeenteschool Klim-op blok 100,Actief - Mobiel,101,,,
+39,"Calant, Christophe",Hardware,,PF1K0D91,LAP0380,Lenovo,Laptop,ThinkPad X390 i5-8265U 2x8/256GB Win10pro 20Q0000QMB,GP - Gemeentepunt,Actief,,,,
+40,,Hardware,,CND54130NH,LAP0173,HP,Laptop,250 G4 N2840 4Gb 500Gb (N0Z80EA),GSH - Gemeenteschool Heestert,Actief,,,,
+41,"Vercruysse, Febe",Hardware,,5CG94509ZY,LAP0412,HP,Laptop,Probook 650 G5 - I5-8265U,Zwevegem,Actief,,SOQ593623/1,,
+42,"Landuyt, Mieke",Hardware,,5CG82956WF,LAP0339,HP,Laptop,Elitebook 850 G3 - i5-6200U (L3D23AV),GP - Gemeentepunt,Actief,Personeelsdienst - Back Office,84V697607001,,
+43,"Vierstraete, Ilse",Hardware,,5CG0372JVM,LAP0498,HP,Laptop,EliteBook 850 G7 Notebook,Zwevegem,Actief,,8TP58AV,,
+44,"D'haene, Evi",Hardware,,5CG8293K51,LAP0353,HP,Laptop,Elitebook 850 G3 - i5-6200U (L3D23AV),GP - Gemeentepunt,Actief,Co”rdinator OCMW/Diensthoofd ICT en Communicatie,84V685215001,,I200529 0064 laptops gewenst
+45,,Hardware,,5CG7271GF3,LAP0239,HP,Laptop,Elitebook 850 G3,Stock IT,Non Actief,,,,
+46,"Desmet, Ann",Hardware,,PC1FVJXW,LAP0484,Lenovo,Laptop,"ThinkPad X390 i5-8265U 8/256SSD 20Q00056MB 13""",GP - Gemeentepunt,Actief,,PO00286494/SOQ600325,,
+47,"Debue, Mieke",Hardware,,5CG8293K4F,LAP0350,HP,Laptop,Elitebook 850 G3 - i5-6200U (L3D23AV),GP - Gemeentepunt,Actief,OCMW,84V685215001,,
+48,,Hardware,,5CG10873PH,LAP0547,HP,Laptop,HP Elitebook 850 G8,Stock IT,Actief,ICT Bureel,1G1X7AV,,
+49,,Hardware,,CND61833GL,LAP0209,HP,Laptop,250 G4 N2840 4Gb 500Gb (N0Z80EA) + 4Gb ram,GSDGK - Gemeenteschool De Groene Kouter,Offline (Niet meer AD en DHCP),,,,
+50,,Hardware,,SPF3GBX7F,LAP0613,Lenovo,Laptop,Thinkpad L15 Gen 2,Stock IT,Non Actief,,PO00332498/SOQ626140/1,,
+51,"Caluwier, Bieke",Hardware,,5CG9372QD4,LAP0400,HP,Laptop,Probook 650 G5 - I5-8265U,GSKLI100 - Gemeenteschool Klim-op blok 100,Actief,,SOQ593623/1,,
+52,"Mulier, Stijn",Hardware,,PF1NTQE3,LAP0372,Lenovo,Laptop,ThinkPad X390 i5-8265U 2x8/256GB Win10pro 20Q0000QMB,Zwevegem,Actief,,P000264022/SOQ585402/1,,
+53,,Hardware,,,LAP0485,Lenovo,Laptop,,Stock IT,Actief,,,172.19.2.155,
+54,,Hardware,,5CG53823BS,LAP0177,HP,Laptop,Probook 650 G1 i5-4210 8GB 500 GB (F1P89ET),Stock IT,Offline (Niet meer AD en DHCP),,,,
+55,,Hardware,KSH813,CND130BX49,LAP0012,HP,Laptop,Elitebook 8540w i5-520M (WD927EA),Stock IT,Non Actief,ICT Bureel (Kast D),,,
+56,,Hardware,,CND541346C,LAP0170,HP,Laptop,250 G4 N2840 4Gb 500Gb (N0Z80EA),GSHV Vierkeer school Heestert,Actief,,,,
+57,"Vandenbrouck, Nancy",Hardware,,5CG8225V5Z,LAP0290,HP,Laptop,Probook 650 G4 - i5-7200  (2GN00AV),Zwevegem,Actief - Mobiel,,,,
+58,"Magerman, Nina",Hardware,,5CG94509GF,LAP0402,HP,Laptop,Probook 650 G5 - I5-8265U,GSKLI100 - Gemeenteschool Klim-op blok 100,Actief,,SOQ593623/1,,
+59,,Hardware,,5CG10873PV,LAP0558,HP,Laptop,HP Elitebook 850 G8,Stock IT,Actief,ICT Bureel,1G1X7AV,,
+60,,Hardware,,5CG945094L,LAP0415,HP,Laptop,Probook 650 G5 - I5-8265U,GSDGK - Gemeenteschool De Groene Kouter,,,SOQ593623/1,,
+61,"Desmet, Bart",Hardware,,5CG10873PB,LAP0542,HP,Laptop,HP Elitebook 850 G8,Zwevegem,Actief,,,,
+62,"Stage, INF",Hardware,,5CG82956VT,LAP0336,HP,Laptop,Elitebook 850 G3 - i5-6200U (L3D23AV),Zwevegem,Actief,,84V697607001,,Er zit een deuk in de laptop
+63,,Hardware,,5CG10873PR,LAP0555,HP,Laptop,HP Elitebook 850 G8,Stock IT,Actief,ICT Bureel,1G1X7AV,,
+64,"Van de Velde, Lynn",Hardware,,5CG94509P6,LAP0410,HP,Laptop,Probook 650 G5 - I5-8265U,GSKLI100 - Gemeenteschool Klim-op blok 100,Actief,,SOQ593623/1,,
+65,,Hardware,,5CG82956W1,LAP0337,HP,Laptop,Elitebook 850 G3 - i5-6200U (L3D23AV),Stock IT,Non Actief,,84V697607001,,
+66,"Gevaert, Veerle",Hardware,,5CG82956R6,LAP0323,HP,Laptop,Elitebook 850 G3 - i5-6200U (L3D23AV),WZC,Actief,Eerstelijnszorg (Flat 4),84V697607001,,
+67,"Vandekerkhove, Maud",Hardware,,PF2FECNS,LAP0524,Lenovo,Laptop,Thinkpad T15 Gen 1,GP - Gemeentepunt,Actief,,,,Schermbreuk
+68,"Delaey, Ann",Hardware,,PF1WHJ76,LAP0450,Lenovo,Laptop,ThinkPad T590 20N4-0033MB,GP - Gemeentepunt,Actief,,PO00286494/SOQ600325,172.19.2.176,
+69,"Peirs, Laura",Hardware,,5CG62906C3,LAP0214,HP,Laptop,Elitebook 850 G3,Zwevegem,Actief,,,,
+70,,Hardware,,,LAP0541,Lenovo,Laptop,Thinkpad T15 Gen 1,Stock IT,Actief,,,,
+71,"Declercq, Melanie",Hardware,,5CG94509R8,LAP0403,HP,Laptop,Probook 650 G5 - I5-8265U,GSKLI100 - Gemeenteschool Klim-op blok 100,Actief,,SOQ593623/1,,Vervanging van Melanie Declercq
+72,"Deruyck, Rita",Hardware,,5CG9372QGN,LAP0396,HP,Laptop,Probook 650 G5 - I5-8265U,Zwevegem,,,SOQ593623/1,,
+73,"Deprez, Isabel",Hardware,,5CG94509FQ,LAP0409,HP,Laptop,Probook 650 G5 - I5-8265U,Zwevegem,Actief,,SOQ593623/1,,
+74,,Hardware,,,LAP0527,Lenovo,Laptop,Thinkpad T15 Gen 1,Stock IT,Actief,,,,
+75,"Himpe, Emilie",Hardware,,5CG0440NC6,LAP0503,HP,Laptop,EliteBook 850 G7 Notebook,WZC,Actief,,8TP58AV,,
+76,"Dermaut, Fr‚d‚rique",Hardware,,PF26JXV1,LAP0464,Lenovo,Laptop,ThinkPad T590 20N4-0033MB,Zwevegem,Actief,,PO00286494/SOQ600325,,
+77,"Pluym, Sofie",Hardware,,5CG8225VCQ,LAP0307,HP,Laptop,Probook 650 G4 - i5-7200  (2GN00AV),Zwevegem,Actief - Mobiel,,,,
+78,"Verbeke, Deborah",Hardware,,5CG7271GFG,LAP0238,HP,Laptop,Elitebook 850 G3,GP - Gemeentepunt,Actief,OCMW,,,
+79,"Vandenbroucke, Chris",Hardware,,5CG8020SJN,LAP0286,HP,Laptop,Probook 650 G2 i3-6100u (V3Q59AV),GP - Gemeentepunt,Actief - Mobiel,Vrije tijd,,,
+80,"Vromant, Isabel",Hardware,,SPF26HLJ6,LAP0472,Lenovo,Laptop,ThinkPad T590 20N4-0033MB,Zwevegem,Actief,,PO00286494/SOQ600325,,
+81,,Hardware,,5CB24718GR,LAP0056,HP,Laptop,Probook 6570b i5-3210M 15 4GB/500 (B6P79EA),GSKN - gemeenteschool Knokke onderbouw,Actief - Mobiel,lager 2 (blauw),,,
+82,,Hardware,,5CG8020SJT,LAP0277,HP,Laptop,Probook 650 G2 i3-6100u (V3Q59AV),VCSZ,Actief - Mobiel,,,,
+83,"Duyck, Lieve",Hardware,,5CG9021Q9L,LAP0362,HP,Laptop,EliteBook 850 G5,GSKLI100 - Gemeenteschool Klim-op blok 100,Actief,,,,
+84,"Cremelie, Veerle",Hardware,,5CG0372JVQ,LAP0497,HP,Laptop,EliteBook 850 G7 Notebook,Zwevegem,Actief,,8TP58AV,,
+85,,Hardware,,CND61832JZ,LAP0205,HP,Laptop,250 G4 N2840 4Gb 500Gb (N0Z80EA) + 4Gb ram,GSDGK - Gemeenteschool De Groene Kouter,Actief,,,,
+86,,Hardware,,5CB32500RW,LAP0066,HP,Laptop,Probook 6570b i5-3210M 15 4GB/500 (C5A59EA),GSBO Klim-op,Actief - Mobiel,,,,
+87,"Deldaele, Geert",Hardware,,PF1K0GV4,LAP0386,Lenovo,Laptop,ThinkPad X390 i5-8265U 2x8/256GB Win10pro 20Q0000QMB,GP - Gemeentepunt,Actief,Preventiedienst,PO00273812,,
+88,,Hardware,,SPF26HGCN,LAP0467,Lenovo,Laptop,ThinkPad T590 20N4-0033MB,Stock IT,Actief,,PO00286494/SOQ600325,,
+89,"Bert, Lisa",Hardware,,SPF26HLL0,LAP0479,Lenovo,Laptop,ThinkPad T590 20N4-0033MB,Zwevegem,Actief,,PO00286494/SOQ600325,,
+90,"Vanwynsberghe, Stefanie",Hardware,,5CG0440NC5,LAP0502,HP,Laptop,EliteBook 850 G7 Notebook,WZC,Actief,,8TP58AV,,
+91,,Hardware,,,LAP0588,Lenovo,Laptop,Thinkpad T15 Gen 1,Stock IT,Non Actief,,,,
+92,"Leman, Hilde",Hardware,,PF1K0GUU,LAP0385,Lenovo,Laptop,ThinkPad X390 i5-8265U 2x8/256GB Win10pro 20Q0000QMB,Zwevegem,Actief,,PO00273812,,
+93,,Hardware,,5CB24718GC,LAP0048,HP,Laptop,Probook 6570b i5-3210M 15 4GB/500 (B6P79EA),GSSD - Gemeenteschool Sint-Denijs,Actief - Mobiel,3de leerjaar,,,
+94,"Callens, Nele",Hardware,,5CG8225VD8,LAP0310,HP,Laptop,Probook 650 G4 - i5-7200  (2GN00AV),GSHV Vierkeer school Heestert,Actief - Mobiel,,,,
+95,"Orins, Bart",Hardware,,R90T5VA0,LAP0364,Lenovo,Laptop,ThinkPad L390 Yoga 20NT i5 8GB 256GB SSD Win10pro (BT025),GP - Gemeentepunt,Actief,IT,P000259665/SOQ5830063/1,,
+96,"Ovaere, Jozefien",Hardware,,5CG94509NB,LAP0413,HP,Laptop,Probook 650 G5 - I5-8265U,GSHV Vierkeer school Heestert,Actief,,SOQ593623/1,,
+97,"Desloovere, Marc",Hardware,,PF1X31DS,LAP0459,Lenovo,Laptop,ThinkPad T590 20N4-0033MB,GP - Gemeentepunt,Actief,Schepenen,PO00286494/SOQ600325,172.19.2.185,
+98,"Verraes, Tom",Hardware,,5CG8293K3F,LAP0347,HP,Laptop,Elitebook 850 G3 - i5-6200U (L3D23AV),GP - Gemeentepunt,Actief,,84V685215001,,
+99,,Hardware,,SPF2VA2WF,LAP0580,Lenovo,Laptop,Thinkpad T15 Gen 1,Stock IT,Non Actief,,,,
+100,"Maes, Hilde",Hardware,,CND5427MH4,LAP0188,HP,Laptop,250 G4 N2840 4Gb 500Gb (N0Z80EA),Zwevegem,Offline (Niet meer AD en DHCP),,,,
+101,,Hardware,,CND5427P8D,LAP0186,HP,Laptop,250 G4 N2840 4Gb 500Gb (N0Z80EA),GSBO Klim-op,Actief - Mobiel,,,,
+102,,Hardware,,CND61832FZ,LAP0208,HP,Laptop,250 G4 N2840 4Gb 500Gb (N0Z80EA) + 4Gb ram,GSDGK - Gemeenteschool De Groene Kouter,Actief,,,,
+103,"Sileghem, Astrid",Hardware,,5CG8225VC9,LAP0305,HP,Laptop,Probook 650 G4 - i5-7200  (2GN00AV),Zwevegem,Actief,,,,
+104,,Hardware,,5CG10873PK,LAP0549,HP,Laptop,HP Elitebook 850 G8,Stock IT,Actief,ICT Bureel,1G1X7AV,,
+105,,Hardware,,5CG10873P2,LAP0559,HP,Laptop,HP Elitebook 850 G8,Stock IT,Actief,ICT Bureel,1G1X7AV,,
+106,"Soete, Lies",Hardware,,5CG423GHGK,LAP0127,HP,Laptop,Probook 650 G1 i5-4200 4GB 500 GB,Zwevegem,Actief,,,172.20.1.161 - 172.19.1.55,
+107,"GEM, Schoonmaak",Hardware,,PF1NZH8Q,LAP0376,Lenovo,Laptop,ThinkPad X390 i5-8265U 2x8/256GB Win10pro 20Q0000QMB,Zwevegem,Actief,,P000264022/SOQ585402/1,,I220228 027FW: Laptop Schoonmaak
+108,,Hardware,,SPF3GBRR1,LAP0604,Lenovo,Laptop,Thinkpad L15 Gen 2,Stock IT,Non Actief,,PO00332498/SOQ626140/1,,
+109,"Presentatie,",Hardware,,PF1K0JY2,LAP0389,Lenovo,Laptop,ThinkPad X390 i5-8265U 2x8/256GB Win10pro 20Q0000QMB,Zwevegem,Actief,,PO00273812,,
+110,"Bossuyt, Febe",Hardware,,5CG8225V75,LAP0292,HP,Laptop,Probook 650 G4 - i5-7200  (2GN00AV),Zwevegem,Actief - Mobiel,,,,
+111,,Hardware,ex - GKO1128,5CB24718GK,LAP0045,HP,Laptop,Probook 6570b i5-3210M 15 4GB/500 (B6P79EA),GSDGK - Gemeenteschool De Groene Kouter,Actief - Mobiel,Personeelslokaal,,,
+112,,Hardware,,,LAP0582,Lenovo,Laptop,Thinkpad T15 Gen 1,Stock IT,Non Actief,,,,
+113,,Hardware,,5CG423FTWF,LAP0120,HP,Laptop,Probook 650 G1 i5-4200 4GB 500 GB,GSBO Klim-op,Actief - Mobiel,,,,
+114,"Dewyn, Sofie",Hardware,,PF26NH3C,LAP0449,Lenovo,Laptop,ThinkPad T590 20N4-0033MB,GP - Gemeentepunt,Actief,Vrije tijd,PO00286494/SOQ600325,172.19.2.175,
+115,"Wieme, Julie",Hardware,,5CG8225VD3,LAP0309,HP,Laptop,Probook 650 G4 - i5-7200  (2GN00AV),Zwevegem,Actief - Mobiel,,,,
+116,,Hardware,,5CG10873P9,LAP0566,HP,Laptop,HP Elitebook 850 G8,Stock IT,Actief,ICT Bureel,1G1X7AV,,
+117,"Vanheule, Sophie",Hardware,,5CG8225VBJ,LAP0303,HP,Laptop,Probook 650 G4 - i5-7200  (2GN00AV),Zwevegem,Actief - Mobiel,,,,
+118,"Opvang / Schoonmaak,",Hardware,,5CG8020SK1,LAP0278,HP,Laptop,Probook 650 G2 i3-6100u (V3Q59AV),GSHG Gauwel school Heestert,Actief - Mobiel,,,,
+119,"Vandaele, Fay",Hardware,,PC1FVJXX,LAP0488,Lenovo,Laptop,"ThinkPad X390 i5-8265U 8/256SSD 20Q00056MB 13""",Zwevegem,Actief,,PO00286494/SOQ600325,,
+120,"Duquesne, Sarah",Hardware,,5CD72964WQ,LAP0258,HP,Laptop,Probook 450 G4 i7-7500u - 8GB 256GB-SSD (Y8A30EA),Zwevegem,Actief - Mobiel,,,,
+121,"Vandeghinste, Jensy",Hardware,,PF26HRA1,LAP0436,Lenovo,Laptop,ThinkPad T590 20N4-0033MB,GP - Gemeentepunt,Actief,,PO00286494/SOQ600325,172.19.2.162,
+122,"Dewitte, Kathleen",Hardware,,5CD72964W8,LAP0266,HP,Laptop,Probook 450 G4 i7-7500u - 8GB 256GB-SSD (Y8A30EA),Zwevegem,Actief - Mobiel,,,,
+123,"Melsens, Eli",Hardware,,SPF2WJQZN,LAP0571,Lenovo,Laptop,Thinkpad T15 Gen 1,Zwevegem,Actief,,,,
+124,"Vermeulen, Nathalie",Hardware,,,LAP0537,Lenovo,Laptop,Thinkpad T15 Gen 1,GP - Gemeentepunt,Actief,,,,
+125,"Nys, Krista",Hardware,,PF1K0GS5,LAP0382,Lenovo,Laptop,ThinkPad X390 i5-8265U 2x8/256GB Win10pro 20Q0000QMB,GP - Gemeentepunt,Actief,Communicatie,,,
+126,"Devos, Nancy",Hardware,,,LAP0526,Lenovo,Laptop,Thinkpad T15 Gen 1,TRANSFODKO - Transfo Directeurswoning,Actief,,,,
+127,"Deprez, Stephanie",Hardware,,5CG8225VB0,LAP0301,HP,Laptop,Probook 650 G4 - i5-7200  (2GN00AV),Zwevegem,Actief,,,,
+128,"Bikoko, Brenda",Hardware,,PF1K0EP7,LAP0392,Lenovo,Laptop,ThinkPad X390 i5-8265U 2x8/256GB Win10pro 20Q0000QMB,GP - Gemeentepunt,Actief,Preventiedienst,PO00273812,,
+129,"Bulcaen, Sylvie",Hardware,,PF1NZD43,LAP0370,Lenovo,Laptop,ThinkPad X390 i5-8265U 2x8/256GB Win10pro 20Q0000QMB,GP - Gemeentepunt,Actief,OCMW,P000264022/SOQ585402/1,,
+130,"Boury, Julie",Hardware,,5CG62906K7,LAP0229,HP,Laptop,Elitebook 850 G3,Zwevegem,Actief,,,,"-> Domain Computers
+-> Deploys: UG_deploy_AdobeAcrobatReader / UG_deploy_BelgiumeID / UG_deploy_Chrome / UG_HPsupportAssistant / UG_deploy_MSOnlineAss / UG_Draadloos_Toegang
+-> Windows 10 Enterprise
+-> Windows update op 25/02/19
+-> HP update op 01/03/19 (incl. BIOS update 1.38)
+-> Voeding is 19,5Vdc en 3,33A / 65W"
+131,,Hardware,,SPF3GBZG4,LAP0611,Lenovo,Laptop,Thinkpad L15 Gen 2,Stock IT,Non Actief,,PO00332498/SOQ626140/1,,
+132,"Demeyere, Jo",Hardware,,5CD72964WB,LAP0246,HP,Laptop,Probook 450 G4 i7-7500u - 8GB 256GB-SSD (Y8A30EA),GSKLI100 - Gemeenteschool Klim-op blok 100,Actief,,,,
+133,"Verleyen, Veronique",Hardware,,5CG8225VG8,LAP0315,HP,Laptop,Probook 650 G4 - i5-7200  (2GN00AV),Zwevegem,Actief - Mobiel,,,,
+134,,Hardware,,SPF2VA69M,LAP0578,Lenovo,Laptop,Thinkpad T15 Gen 1,Stock IT,Non Actief,,,,
+135,"Callens, Tabitha",Hardware,,PF26KNSZ,LAP0431,Lenovo,Laptop,ThinkPad T590 20N4-0033MB,GP - Gemeentepunt,Actief,Bestuurszaken,PO00286494/SOQ600325,,
+136,"De Praeter, Femke",Hardware,,5CD72964WF,LAP0259,HP,Laptop,Probook 450 G4 i7-7500u - 8GB 256GB-SSD (Y8A30EA),GSKLI100 - Gemeenteschool Klim-op blok 100,Actief - Mobiel,,,,
+137,"Vandemaele, Louis",Hardware,,5CD72964WM,LAP0269,HP,Laptop,Probook 450 G4 i7-7500u - 8GB 256GB-SSD (Y8A30EA),Zwevegem,Actief - Mobiel,,,,
+138,"Opvang / Schoonmaak,",Hardware,,5CG8020SL5,LAP0285,HP,Laptop,Probook 650 G2 i3-6100u (V3Q59AV),GSHV Vierkeer school Heestert,Verdwenen of gestolen,,,,"Zie ticket I191114 022:
+LAP0285 is gestolen.Kan je dat ergens noteren in TopDesk bij dat toestel?Ik zal hem op afstand wissen.Met vriendelijke groeten,Mattias TernierDiensthoofd ICT"
+139,,Hardware,,,LAP0586,Lenovo,Laptop,Thinkpad T15 Gen 1,Stock IT,Non Actief,,,,
+140,"Vermeulen, Silke",Hardware,,5CG62906CX,LAP0230,HP,Laptop,Elitebook 850 G3,Zwevegem,Actief,,,,Bart Orins: Lichte beschadiging vastgesteld bij afgifte aan Silke.
+141,"Loosvelt, Lies",Hardware,,PF1K0GTH,LAP0387,Lenovo,Laptop,ThinkPad X390 i5-8265U 2x8/256GB Win10pro 20Q0000QMB,GP - Gemeentepunt,Actief,,PO00273812,,
+142,"Lietaer, Fien",Hardware,,PF1NZEXX,LAP0377,Lenovo,Laptop,ThinkPad X390 i5-8265U 2x8/256GB Win10pro 20Q0000QMB,GP - Gemeentepunt,Actief,,P000264022/SOQ585402/1,,
+143,,Hardware,,5CB32500RQ,LAP0068,HP,Laptop,Probook 6570b i5-3210M 15 4GB/500 (C5A59EA),GSSD - Gemeenteschool Sint-Denijs,Actief - Mobiel,4de leerjaar,,,
+144,,Hardware,,CNU844595V,LAP0140,HP,Laptop,"6730b - 4GB - 120GB - 15"" (GW687AV)",GSHV Vierkeer school Heestert,Actief,,Win7,,11-10-2021 09:44 Bart Orins: Leerlingenlaptop afgevoerd
+145,"Vanoverberghe, Jasmien",Hardware,,SPF3GC1Q5,LAP0599,Lenovo,Laptop,Thinkpad L15 Gen 2,Zwevegem,Actief,,PO00332498/SOQ626140/1,,
+146,,Hardware,,SPF3GBRMX,LAP0605,Lenovo,Laptop,Thinkpad L15 Gen 2,Stock IT,Non Actief,,PO00332498/SOQ626140/1,,
+147,"Daels, Adelien",Hardware,,5CG0372JVP,LAP0492,HP,Laptop,EliteBook 850 G7 Notebook,Zwevegem,Actief,,8TP58AV,,
+148,"Orins, Marijke",Hardware,,5CG82956W8,LAP0338,HP,Laptop,Elitebook 850 G3 - i5-6200U (L3D23AV),GP - Gemeentepunt,Actief,,84V697607001,,
+149,"Demeyere, Eveline",Hardware,,5CD72964WK,LAP0271,HP,Laptop,Probook 450 G4 i7-7500u - 8GB 256GB-SSD (Y8A30EA),Zwevegem,Actief - Mobiel,,,,Meegegeven aan Laurein als reserve toestel 24/08/2020
+150,"Spincemaille, Eliane",Hardware,,5CG82956RB,LAP0324,HP,Laptop,Elitebook 850 G3 - i5-6200U (L3D23AV),GP - Gemeentepunt,Actief,Schepenen,84V697607001,,
+151,"Vanmeenen, Laurence",Hardware,,5CG62906KT,LAP0215,HP,Laptop,Elitebook 850 G3,GP - Gemeentepunt,Actief,,,,
+152,,Hardware,,5CG8225V9J,LAP0298,HP,Laptop,Probook 650 G4 - i5-7200  (2GN00AV),Stock IT,Non Actief,,,,
+153,"Veys, Anne-Mie",Hardware,,5CG423GHJ5,LAP0130,HP,Laptop,Probook 650 G1 i5-4200 4GB 500 GB,BIB - Bibliotheek,Actief,,,,
+154,"De Bo, Sander",Hardware,,PF1K0GSU,LAP0384,Lenovo,Laptop,ThinkPad X390 i5-8265U 2x8/256GB Win10pro 20Q0000QMB,GP - Gemeentepunt,Actief,Financieel Beheerder,PO00273812,,
+155,,Hardware,,5CB32500RY,LAP0062,HP,Laptop,Probook 6570b i5-3210M 15 4GB/500 (C5A59EA),GSKN - gemeenteschool Knokke onderbouw,Actief - Mobiel,,,,Leerlingenlaptop
+156,,Hardware,,,LAP0533,Lenovo,Laptop,Thinkpad T15 Gen 1,Stock IT,In Herstelling,,,,
+157,"Vanlangenhove, Jan",Hardware,,5CG82956TB,LAP0332,HP,Laptop,Elitebook 850 G3 - i5-6200U (L3D23AV),GP - Gemeentepunt,Non Actief,,84V697607001,,
+158,"Degrijse, Gudrun",Hardware,,5CD72964WN,LAP0245,HP,Laptop,Probook 450 G4 i7-7500u - 8GB 256GB-SSD (Y8A30EA),GSKLI100 - Gemeenteschool Klim-op blok 100,Actief,106,,,
+159,,Hardware,,5CG423FTTZ,LAP0118,HP,Laptop,Probook 650 G1 i5-4200 4GB 500 GB,GSKLI100 - Gemeenteschool Klim-op blok 100,Offline (Niet meer AD en DHCP),109,,,
+160,"Allemeersch, Marie-H‚lŠne",Hardware,,PF26HGDA,LAP0442,Lenovo,Laptop,ThinkPad T590 20N4-0033MB,Zwevegem,Actief,,PO00286494/SOQ600325,172.19.2.168,
+161,"Vandendriessche, Magda",Hardware,,5CD72964X0,LAP0267,HP,Laptop,Probook 450 G4 i7-7500u - 8GB 256GB-SSD (Y8A30EA),Zwevegem,Actief - Mobiel,,,,
+162,"Bouttelgier, Lisa",Hardware,,5CD72964W5,LAP0251,HP,Laptop,Probook 450 G4 i7-7500u - 8GB 256GB-SSD (Y8A30EA),GSKLI100 - Gemeenteschool Klim-op blok 100,Actief - Mobiel,,,,
+163,"Janssens, Katrien",Hardware,,PF26PW8C,LAP0446,Lenovo,Laptop,ThinkPad T590 20N4-0033MB,GP - Gemeentepunt,Actief,Vrije tijd,PO00286494/SOQ600325,172.19.2.172,
+164,"Opvang / Schoonmaak,",Hardware,CBS952,5CB146422B,LAP0025,HP,Laptop,Elitebook 8560p i5-2540M (LG732ET),GSHV Vierkeer school Heestert,Actief - Mobiel,,,,"Uitleenpool laptop
+
+-> Via F12 opnieuw uitgerold - Windows 10
+-> Domain computers
+-> UG_Deploy_AdobeAcrobatReader, UG_Deploy_HPSupportAssistant
+-> UG_Draadloos_Toegang
+-> UG_Manueel_Java
+
+-> DHCP aangepast van CBS952 naar LAP0025 (IP adressen: 172.19.25.2 en 172.20.1.4)"
+165,"Vercaemst, Matthias",Hardware,,R90T5VA3,LAP0365,Lenovo,Laptop,ThinkPad L390 Yoga 20NT i5 8GB 256GB SSD Win10pro (BT025),GP - Gemeentepunt,Actief,IT,P000259665/SOQ5830063/1,,
+166,,Hardware,,CNU752037H,LAP0137,Compaq,Laptop,6710b,GSSD - Gemeenteschool Sint-Denijs,Actief - Mobiel,Directeur,,,
+167,"Mahieu, Bjorn",Hardware,,PF1WQAN1,LAP0420,Lenovo,Laptop,ThinkPad T590 20N4-003MB,Zwevegem,Actief,,PO00281814/SOQ596915/1,,
+168,"Callens, Leonie",Hardware,,PF26J6VV,LAP0443,Lenovo,Laptop,ThinkPad T590 20N4-0033MB,GP - Gemeentepunt,Actief,,PO00286494/SOQ600325,172.19.2.169,
+169,,Hardware,,,LAP0522,Lenovo,Laptop,Thinkpad T15 Gen 1,Stock IT,Actief,,,,
+170,,Hardware,,CND61831W0,LAP0206,HP,Laptop,250 G4 N2840 4Gb 500Gb (N0Z80EA) + 4Gb ram,GSDGK - Gemeenteschool De Groene Kouter,Actief,,,,
+171,"Martin, Ingrid",Hardware,,5CG82956V5,LAP0334,HP,Laptop,Elitebook 850 G3 - i5-6200U (L3D23AV),WZC,Actief,DVC - bureel,84V697607001,,
+172,,Hardware,,CND618324D,LAP0199,HP,Laptop,250 G4 N2840 4Gb 500Gb (N0Z80EA) + 4Gb ram,GSDGK - Gemeenteschool De Groene Kouter,Actief,,,,
+173,"Lager 6b, Groene Kouter",Hardware,,5CG54934PD,LAP0196,HP,Laptop,Probook 650 G1 i5-4210 8GB 500 GB (F1P89ET),GSDGK - Gemeenteschool De Groene Kouter,Actief - Mobiel,lager 6b (2.03),,,
+174,"Baert, Giovanni",Hardware,,5CB3380MS1,LAP0075,HP,Laptop,Probook 6570b i5-3230M,GSSD - Gemeenteschool Sint-Denijs,Actief - Mobiel,,,,
+175,"Lefevre, Tine",Hardware,,5CG0440NC8,LAP0505,HP,Laptop,EliteBook 850 G7 Notebook,Zwevegem,Actief,,8TP58AV,,
+176,"Orins, Marijke",Hardware,,SPF26HVTR,LAP0474,Lenovo,Laptop,ThinkPad T590 20N4-0033MB,GP - Gemeentepunt,Actief,,PO00286494/SOQ600325,,
+177,"D'haene, Evi",Hardware,,PF26JGY0,LAP0441,Lenovo,Laptop,ThinkPad T590 20N4-0033MB,GP - Gemeentepunt,In Herstelling,Co”rdinator OCMW/Diensthoofd ICT en Communicatie,PO00286494/SOQ600325,172.19.2.167,Schermbreuk
+178,"Verbrugge, Lutgarde",Hardware,,5CG8225VC0,LAP0304,HP,Laptop,Probook 650 G4 - i5-7200  (2GN00AV),Zwevegem,Actief - Mobiel,,,,
+179,,Hardware,,SPF2W5LMD,LAP0579,Lenovo,Laptop,Thinkpad T15 Gen 1,Stock IT,Non Actief,,,,
+180,,Hardware,,,LAP0523,Lenovo,Laptop,Thinkpad T15 Gen 1,Stock IT,Actief,,,,
+181,"Ruysschaert, Marc",Hardware,,5CD72964WT,LAP0247,HP,Laptop,Probook 450 G4 i7-7500u - 8GB 256GB-SSD (Y8A30EA),GSKLI100 - Gemeenteschool Klim-op blok 100,Actief,,,,
+182,,Hardware,,5CG10873P6,LAP0563,HP,Laptop,HP Elitebook 850 G8,Stock IT,Actief,ICT Bureel,1G1X7AV,,
+183,"Vercaemst, Liselotte",Hardware,,5CG10873PP,LAP0553,HP,Laptop,HP Elitebook 850 G8,GSKO - Gemeenteschool Kouterschool,Actief,,1G1X7AV,,
+184,"Vanhoutte, Veerle",Hardware,,5CB3380MRX,LAP0073,HP,Laptop,Probook 6570b i5-3230M,GSKLI200 - Gemeenteschool Klim-op blok 200,Actief - Mobiel,204,,,
+185,,Hardware,,SPF26HPWN,LAP0466,Lenovo,Laptop,ThinkPad T590 20N4-0033MB,Stock IT,Actief,,PO00286494/SOQ600325,,
+186,"Herremans, Nathalie",Hardware,,CNU423B0W8,LAP0131,HP,Laptop,Probook 650 G1 i5-4200 4GB 500 GB,GSKN - gemeenteschool Knokke onderbouw,Actief - Mobiel,,,,"03-01-2017 08:43 Luc Velghe: opnieuw uitgerold voor gebruik binnen Netwerk door Nathalie Herremans
+24/07/2015 KDL opnieuw ge‹nstalleerd"
+187,,Hardware,,CND618322T,LAP0204,HP,Laptop,250 G4 N2840 4Gb 500Gb (N0Z80EA) + 4Gb ram,GSDGK - Gemeenteschool De Groene Kouter,Actief,lager 4a (1.01),,,Actie: Admin password gereset met bootstick op 26/02/2019
+188,"Turpin, Marilyn",Hardware,,5CD72964WZ,LAP0257,HP,Laptop,Probook 450 G4 i7-7500u - 8GB 256GB-SSD (Y8A30EA),Zwevegem,Actief,,,,
+189,"Vandeburie, Griet",Hardware,,PF1K0D8H,LAP0391,Lenovo,Laptop,ThinkPad X390 i5-8265U 2x8/256GB Win10pro 20Q0000QMB,Zwevegem,Actief,,PO00273812,,
+190,"Dewaele, Isabelle",Hardware,ex-JEU817,CND130BX40,LAP0014,HP,Laptop,Elitebook 8540w i5-520M (WD927EA),GSKLI100 - Gemeenteschool Klim-op blok 100,Actief,,,,
+191,,Hardware,,,LAP0525,Lenovo,Laptop,Thinkpad T15 Gen 1,Stock IT,Actief,,,,
+192,"Balcaen, Valerie",Hardware,,5CG82956SD,LAP0328,HP,Laptop,Elitebook 850 G3 - i5-6200U (L3D23AV),Zwevegem,Actief,,84V697607001,,
+193,"De Clercq, Bart",Hardware,,5CG0440NCC,LAP0508,HP,Laptop,EliteBook 850 G7 Notebook,Zwevegem,Actief,,8TP58AV,,
+194,"Buysens, Nathalie",Hardware,,5CG8225VCX,LAP0308,HP,Laptop,Probook 650 G4 - i5-7200  (2GN00AV),Zwevegem,Actief - Mobiel,,,,
+195,"Desmet, Bart",Hardware,,5CG53761XD,LAP0181,HP,Laptop,Probook 650 G1 i5-4210 8GB 500 GB (F1P89ET),Zwevegem,Actief - Mobiel,,,,
+196,"Verstappen, Fanny",Hardware,,5CG10873PN,LAP0552,HP,Laptop,HP Elitebook 850 G8,Zwevegem,Actief,,1G1X7AV,,
+197,"Claeys, Yana",Hardware,,PF26HPYN,LAP0439,Lenovo,Laptop,ThinkPad T590 20N4-0033MB,Zwevegem,Actief,,PO00286494/SOQ600325,172.19.2.165,
+198,"Verbrugghe, Sofie",Hardware,,5CD72964WW,LAP0256,HP,Laptop,Probook 450 G4 i7-7500u - 8GB 256GB-SSD (Y8A30EA),GSKLI200 - Gemeenteschool Klim-op blok 200,Actief - Mobiel,207,,,
+199,"Loosveldt, Paulette",Hardware,,5CG629072T,LAP0225,HP,Laptop,Elitebook 850 G3,GP - Gemeentepunt,Actief,,,,
+200,"Delaey, Ann",Hardware,,5CG82956SX,LAP0330,HP,Laptop,Elitebook 850 G3 - i5-6200U (L3D23AV),GP - Gemeentepunt,Actief,,84V697607001,,
+201,"Arnout, Lidwina",Hardware,,5CD72964WG,LAP0248,HP,Laptop,Probook 450 G4 i7-7500u - 8GB 256GB-SSD (Y8A30EA),GSKLI100 - Gemeenteschool Klim-op blok 100,Actief - Mobiel,,,,
+202,,Hardware,,5CG8020SLK,LAP0283,HP,Laptop,Probook 650 G2 i3-6100u (V3Q59AV),GSKN - gemeenteschool Knokke onderbouw,Actief - Mobiel,,,,
+203,"Bossuyt, Febe",Hardware,ex-oc3842,CND131CTYV,LAP0018,HP,Laptop,Elitebook 8540w i5-520M (WD927EA),Zwevegem,Actief - Mobiel,,,,08-06-2016 08:45 Luc Velghe: opnieuw uitgerold op windows 10
+204,,Hardware,,,LAP0539,Lenovo,Laptop,Thinkpad T15 Gen 1,Stock IT,Actief,,,,
+205,,Hardware,,5CB32500RN,LAP0063,HP,Laptop,Probook 6570b i5-3210M 15 4GB/500 (C5A59EA),GSHV Vierkeer school Heestert,Actief - Mobiel,,,,
+206,,Hardware,,,LAP0591,Lenovo,Laptop,Thinkpad T15 Gen 1,Stock IT,Non Actief,,,,
+207,,Hardware,,SPF3GBRQA,LAP0617,Lenovo,Laptop,Thinkpad L15 Gen 2,Stock IT,Non Actief,,PO00332498/SOQ626140/1,,
+208,"Dumortier, Hans",Hardware,,5CG8293K2X,LAP0345,HP,Laptop,Elitebook 850 G3 - i5-6200U (L3D23AV),WZC,Non Actief,Eerstelijnszorg (Flat 4),84V685215001,,
+209,,Hardware,,5CB24718GH,LAP0057,HP,Laptop,Probook 6570b i5-3210M 15 4GB/500 (B6P79EA),GSKN - gemeenteschool Knokke onderbouw,Actief - Mobiel,,,,
+210,,Hardware,,5CB24718GJ,LAP0052,HP,Laptop,Probook 6570b i5-3210M 15 4GB/500 (B6P79EA),GSKO - Gemeenteschool Kouterschool,Actief - Mobiel,,,,
+211,"Bouttens, Cleo",Hardware,,PF1X52Y1,LAP0461,Lenovo,Laptop,ThinkPad T590 20N4-0033MB,GP - Gemeentepunt,Actief,Publieke ruimte admin 2,PO00286494/SOQ600325,172.19.2.187,
+212,,Hardware,,5CG10873PM,LAP0551,HP,Laptop,HP Elitebook 850 G8,Stock IT,Actief,ICT Bureel,1G1X7AV,,
+213,"Depoortere, Mieke",Hardware,,SPF25NH5Q,LAP0463,Lenovo,Laptop,ThinkPad T590 20N4-0033MB,GP - Gemeentepunt,Actief,Vrije tijd,PO00286494/SOQ600325,,
+214,,Hardware,,,LAP0532,Lenovo,Laptop,Thinkpad T15 Gen 1,Stock IT,Actief,,,,
+215,"Casteur, Maud",Hardware,,5CG82956WR,LAP0340,HP,Laptop,Elitebook 850 G3 - i5-6200U (L3D23AV),Zwevegem,Actief,,84V697607001,,
+216,"Verriest, Sofie",Hardware,,5CG94509FS,LAP0404,HP,Laptop,Probook 650 G5 - I5-8265U,GSKLI100 - Gemeenteschool Klim-op blok 100,Actief,105,SOQ593623/1,,
+217,"Vromant, Vanessa",Hardware,,5CD72964W9,LAP0260,HP,Laptop,Probook 450 G4 i7-7500u - 8GB 256GB-SSD (Y8A30EA),Zwevegem,Actief - Mobiel,,,,"24-08-2017 10:42 Luc Velghe: meegenomen door Bart desmet  -zorgt zelf voor installatie
+09-11-2018 12:10 Bart Orins: meegegeven met Elien Eggermont (Jeugdienst)"
+218,"Depaepe, Janne",Hardware,,PF26NH56,LAP0434,Lenovo,Laptop,ThinkPad T590 20N4-0033MB,GP - Gemeentepunt,Actief,Vrije tijd,PO00286494/SOQ600325,172.19.2.160,
+219,"Sultanova, Elizaveta",Hardware,,PF1X4DE0,LAP0460,Lenovo,Laptop,ThinkPad T590 20N4-0033MB,Zwevegem,Actief,,PO00286494/SOQ600325,172.19.2.186,
+220,,Hardware,,,LAP0521,Lenovo,Laptop,Thinkpad T15 Gen 1,Stock IT,Actief,,,,
+221,,Hardware,,CND54130RQ,LAP0167,HP,Laptop,250 G4 N2840 4Gb 500Gb (N0Z80EA),GSHV Vierkeer school Heestert,Actief,,,,
+222,"Vandermeersch, Iris",Hardware,,PF2FFYP6,LAP0534,Lenovo,Laptop,Thinkpad T15 Gen 1,Zwevegem,In Herstelling,,,,Start niet meer op
+223,,Hardware,,5CG10873P3,LAP0560,HP,Laptop,HP Elitebook 850 G8,Stock IT,Actief,ICT Bureel,1G1X7AV,,
+224,,Hardware,,SPF3GBZJA,LAP0595,Lenovo,Laptop,Thinkpad L15 Gen 2,Stock IT,Non Actief,,PO00332498/SOQ626140/1,,
+225,"Schotte, Rita",Hardware,,PF1X531W,LAP0451,Lenovo,Laptop,ThinkPad T590 20N4-0033MB,GP - Gemeentepunt,Actief,,PO00286494/SOQ600325,172.19.2.177,
+226,"Lager 4b, Groene Kouter",Hardware,,5CG54934QJ,LAP0192,HP,Laptop,Probook 650 G1 i5-4210 8GB 500 GB (F1P89ET),GSDGK - Gemeenteschool De Groene Kouter,Actief - Mobiel,lager 4b (1.03),,,
+227,"Mondy, Veerle",Hardware,,PF1K0D84,LAP0383,Lenovo,Laptop,ThinkPad X390 i5-8265U 2x8/256GB Win10pro 20Q0000QMB,GP - Gemeentepunt,Actief,,,,
+228,"Bellemans, Hanne",Hardware,,5CG7271GDW,LAP0235,HP,Laptop,Elitebook 850 G3,WZC,Actief,,,,
+229,,Hardware,,CND54130SC,LAP0172,HP,Laptop,250 G4 N2840 4Gb 500Gb (N0Z80EA),GSHV Vierkeer school Heestert,Actief,,,,
+230,"Gabriel, Annick",Hardware,,5CG0440NCM,LAP0516,HP,Laptop,EliteBook 850 G7 Notebook,Zwevegem,Actief,,8TP58AV,,
+231,"Callens, Ilana",Hardware,,SPF2WJ22D,LAP0574,Lenovo,Laptop,Thinkpad T15 Gen 1,Zwevegem,Actief,,,,
+232,,Hardware,,5CG10873PC,LAP0543,HP,Laptop,HP Elitebook 850 G8,Stock IT,Actief,ICT Bureel,1G1X7AV,,
+233,"Vanhulsen, Sarah",Hardware,,5CG8225VDJ,LAP0311,HP,Laptop,Probook 650 G4 - i5-7200  (2GN00AV),Zwevegem,Actief,,,,
+234,"Vannieuwenhuyse, Carine",Hardware,,5CG10873PD,LAP0544,HP,Laptop,HP Elitebook 850 G8,GSKN - gemeenteschool Knokke onderbouw,Actief,secretariaat,1G1X7AV,,
+235,,Hardware,,5CG0440NC9,LAP0506,HP,Laptop,EliteBook 850 G7 Notebook,Gemeenteschool Zwevegem,Actief,,8TP58AV,,
+236,"Maes, Maaike",Hardware,,5CG8225VH4,LAP0317,HP,Laptop,Probook 650 G4 - i5-7200  (2GN00AV),Zwevegem,Actief - Mobiel,,,,
+237,,Hardware,,SPF3GBRPB,LAP0608,Lenovo,Laptop,Thinkpad L15 Gen 2,Stock IT,Non Actief,,PO00332498/SOQ626140/1,,
+238,,Hardware,,5CG9021Q8H,LAP0358,HP,Laptop,Elitebook 850 G5,GSH - Gemeenteschool Heestert,Actief,,2FH32AV,,lap0358.zwevegem.local -> 172.19.1.24 en 172.20.2.54
+239,"Debels, Pieter",Hardware,,5CG0372JVJ,LAP0493,HP,Laptop,EliteBook 850 G7 Notebook,Zwevegem,Actief,,8TP58AV,,
+240,,Hardware,,5CG82956S3,LAP0327,HP,Laptop,Elitebook 850 G3 - i5-6200U (L3D23AV),WZC,Actief,Dienst Anjer - Verpleegpost,84V697607001,,"I200529 0064 laptops gewenst
+I210430 016 Herstellingen door Real Dolmen"
+241,"Sarasyn, Valerie",Hardware,,SPF2W5PTA,LAP0568,Lenovo,Laptop,Thinkpad T15 Gen 1,GP - Gemeentepunt,Actief,,,,
+242,"Claeys, Marc",Hardware,,SPF2WJTSA,LAP0569,Lenovo,Laptop,Thinkpad T15 Gen 1,GP - Gemeentepunt,Actief,Schepenen,,,
+243,"Verhue, Marijke",Hardware,,SPF26NFQA,LAP0473,Lenovo,Laptop,ThinkPad T590 20N4-0033MB,GP - Gemeentepunt,Actief,,PO00286494/SOQ600325,,
+244,,Hardware,,,LAP0584,Lenovo,Laptop,Thinkpad T15 Gen 1,Stock IT,Non Actief,,,,
+245,"Vermeulen, Lies",Hardware,,5CG7292SHB,LAP0242,HP,Laptop,Elitebook 850 G3,WZC,Actief,,,,
+246,,Hardware,,5CB32500RX,LAP0064,HP,Laptop,Probook 6570b i5-3210M 15 4GB/500 (C5A59EA),GSSD - Gemeenteschool Sint-Denijs,Actief - Mobiel,,,,Leerlingenlaptop
+247,"Deweer, Petra",Hardware,,PF26JGX2,LAP0437,Lenovo,Laptop,ThinkPad T590 20N4-0033MB,GP - Gemeentepunt,Actief,Co”rdinator OCMW/Diensthoofd ICT en Communicatie,PO00286494/SOQ600325,172.19.2.163,
+248,"Rigole, Waldo",Hardware,,PF1X4ZTX,LAP0455,Lenovo,Laptop,ThinkPad T590 20N4-0033MB,GP - Gemeentepunt,Actief,,PO00286494/SOQ600325,172.19.2.181,
+249,"Dooms, Frank",Hardware,,5CD72964WV,LAP0243,HP,Laptop,Probook 450 G4 i7-7500u - 8GB 256GB-SSD (Y8A30EA),GSKLI200 - Gemeenteschool Klim-op blok 200,Actief,210,,,
+250,"Verwee, Ann-Sophie",Hardware,,5CG0440NCD,LAP0509,HP,Laptop,EliteBook 850 G7 Notebook,GSKO - Gemeenteschool Kouterschool,Actief,,8TP58AV,,
+251,"Vanwelden, Barbara",Hardware,,5CG8225V8R,LAP0288,HP,Laptop,Probook 650 G4 - i5-7200  (2GN00AV),TRANSFODKO - Transfo Directeurswoning,Actief - Mobiel,,,,
+252,"Lager 5a, Groene Kouter",Hardware,,5CG54934QX,LAP0193,HP,Laptop,Probook 650 G1 i5-4210 8GB 500 GB (F1P89ET),GSDGK - Gemeenteschool De Groene Kouter,Actief - Mobiel,lager 5a (1.06),,,
+253,,Hardware,,5CG10873PF,LAP0545,HP,Laptop,HP Elitebook 850 G8,Stock IT,Actief,ICT Bureel,1G1X7AV,,
+254,"ICT, Uitleenpool",Hardware,ex-GEM955,5CB146423T,LAP0026,HP,Laptop,Elitebook 8560p i5-2540M (LG732ET),GP - Gemeentepunt,Actief - Mobiel,IT,,,23-02-2018 10:50 Luc Velghe: opnieuw uitgerold met Windows 10
+255,"Vercaemst, Liselotte",Hardware,,5CG8225V7W,LAP0294,HP,Laptop,Probook 650 G4 - i5-7200  (2GN00AV),GSKO - Gemeenteschool Kouterschool,Actief - Mobiel,,,,
+256,"Deprez, Isabel",Hardware,,5CG94509G8,LAP0408,HP,Laptop,Probook 650 G5 - I5-8265U,Zwevegem,Actief,,SOQ593623/1,,Tijdelijke laptop voor Isabel zie ticket I210915 007
+257,"Masselis, Katrien",Hardware,,5CG8293K5Q,LAP0356,HP,Laptop,Elitebook 850 G3 - i5-6200U (L3D23AV),WZC,Actief,,84V685215001,,
+258,,Hardware,,5CG8020SLX,LAP0280,HP,Laptop,Probook 650 G2 i3-6100u (V3Q59AV),JCB - Jeugdcentrum,Actief - Mobiel,,,,09-11-2018 12:10 Bart Orins: door Elien Eggermont (Jeugdienst) binnengebracht
+259,"Vanhaelemeersch, Annelies",Hardware,,5CG62906FR,LAP0226,HP,Laptop,Elitebook 850 G3,GP - Gemeentepunt,Actief,Woon- en leefomgeving,,172.19.2.39 - 192.20.0.93,
+260,,Hardware,,5CG423GHHS,LAP0129,HP,Laptop,Probook 650 G1 i5-4200 4GB 500 GB,GSKO - Gemeenteschool Kouterschool,Actief - Mobiel,Bureel administratie,,,
+261,"Depraetere, Isbel",Hardware,,5CG0440NCB,LAP0507,HP,Laptop,EliteBook 850 G7 Notebook,Zwevegem,Non Actief,,8TP58AV,,
+262,"Forrier, Jordy",Hardware,,R90T5VA5,LAP0368,Lenovo,Laptop,ThinkPad L390 Yoga 20NT i5 8GB 256GB SSD Win10pro (BT025),ATD - algemeen technische dienst,Offline (Niet meer AD en DHCP),,P000259665/SOQ5830063/1,,Te gebruiken voor KNX opleiding
+263,,Hardware,,5CG10873P5,LAP0562,HP,Laptop,HP Elitebook 850 G8,Stock IT,Actief,ICT Bureel,1G1X7AV,,
+264,"Vanroose, Emmeline",Hardware,,PC1FR01K,LAP0425,Lenovo,Laptop,"ThinkPad X390 i5-8265U 8/256SSD 20Q00056MB 13""",Zwevegem,Actief,,PO00281814/SOQ596915/1,,
+265,"Veys, Anne-Mie",Hardware,,SPF2VA0AR,LAP0573,Lenovo,Laptop,Thinkpad T15 Gen 1,BIB - Bibliotheek,Actief,,,,
+266,"Dewaele, Isabelle",Hardware,,5CG0372JVH,LAP0490,HP,Laptop,EliteBook 850 G7 Notebook,GSKLI100 - Gemeenteschool Klim-op blok 100,Actief,,8TP58AV,,
+267,"Presentatie,",Hardware,,PF1WQCVL,LAP0421,Lenovo,Laptop,ThinkPad T590 20N4-003MB,Zwevegem,Actief,,PO00281814/SOQ596915/1,,
+268,"De Clercq, Heidi",Hardware,,5CG53823C1,LAP0175,HP,Laptop,Probook 650 G1 i5-4210 8GB 500 GB (F1P89ET),TRANSFODKO - Transfo Directeurswoning,Actief - Mobiel,,,,
+269,"Baert, Giovanni",Hardware,,5CG8225VFJ,LAP0314,HP,Laptop,Probook 650 G4 - i5-7200  (2GN00AV),GSSD - Gemeenteschool Sint-Denijs,Actief - Mobiel,,,,
+270,"Allaert, Mia",Hardware,,5CG62906F8,LAP0217,HP,Laptop,Elitebook 850 G3,GP - Gemeentepunt,Actief,,,,
+271,,Hardware,,5CG53822V8,LAP0178,HP,Laptop,Probook 650 G1 i5-4210 8GB 500 GB (F1P89ET),Stock IT,Offline (Niet meer AD en DHCP),,,,Opvang / Schoonmaak Knokke
+272,,Hardware,,CNU423B0XM,LAP0132,HP,Laptop,Probook 650 G1 i5-4200 4GB 500 GB,GSHV Vierkeer school Heestert,Actief - Mobiel,,,,
+273,"Vanhaesebroucke, Caroline",Hardware,,5CG423GHG7,LAP0126,HP,Laptop,Probook 650 G1 i5-4200 4GB 500 GB,Zwevegem,Non Actief,,,,
+274,"Davidts, Rutger",Hardware,,PF1K0D7M,LAP0381,Lenovo,Laptop,ThinkPad X390 i5-8265U 2x8/256GB Win10pro 20Q0000QMB,GP - Gemeentepunt,Actief,,,,Gevallen en hierdoor werkt het touchpad niet meer naar behoren
+275,,Hardware,,,LAP0540,Lenovo,Laptop,Thinkpad T15 Gen 1,Stock IT,Actief,,,,
+276,,Hardware,,5CB24718GX,LAP0049,HP,Laptop,Probook 6570b i5-3210M 15 4GB/500 (B6P79EA),GSKN - gemeenteschool Knokke onderbouw,Actief - Mobiel,lager 1 (groen),,,
+277,,Hardware,,5CB24718GP,LAP0053,HP,Laptop,Probook 6570b i5-3210M 15 4GB/500 (B6P79EA),GSSD - Gemeenteschool Sint-Denijs,Actief - Mobiel,6de leerjaar,,,
+278,"GroeneKouter, Schoonmaak",Hardware,OC3996,5CB15209V2,LAP0041,HP,Laptop,Elitebook 8560p i5-2540M (LG732ET),Zwevegem,Actief - Mobiel,,,,"08-01-2015 16:33 Kurt De Laere: Disk werd vandaag vervangen door een 500GB exemplaar onder garantie door RealDolmen
+
+Uitleenpool laptop
+
+-> Via F12 opnieuw uitgerold - Windows 10
+-> Domain computers
+-> UG_Deploy_AdobeAcrobatReader, UG_Deploy_HPSupportAssistant
+-> UG_Draadloos_Toegang
+-> UG_Manueel_Java
+
+-> DHCP aangepast van OC3996 naar LAP0041 (IP adressen: 172.19.27.7
+ en 172.20.0.131)"
+279,"Devos, Nancy",Hardware,,5CG538251Z,LAP0176,HP,Laptop,Probook 650 G1 i5-4210 8GB 500 GB (F1P89ET),TRANSFODKO - Transfo Directeurswoning,Offline (Niet meer AD en DHCP),,,,
+280,"DKO, Stedestraat",Hardware,,5CG9021Q8T,LAP0357,HP,Laptop,Elitebook 850 G5,Zwevegem,Actief,,2FH32AV,,lap0357.zwevegem.local -> 172.19.1.23 en 172.20.2.53
+281,,Hardware,,5CG10873PS,LAP0556,HP,Laptop,HP Elitebook 850 G8,Stock IT,Actief,ICT Bureel,1G1X7AV,,
+282,,Hardware,,SPF3GBM74,LAP0612,Lenovo,Laptop,Thinkpad L15 Gen 2,Stock IT,Non Actief,,PO00332498/SOQ626140/1,,
+283,"Desloovere, Hannelore",Hardware,,PF26J3CJ,LAP0432,Lenovo,Laptop,ThinkPad T590 20N4-0033MB,GP - Gemeentepunt,Actief,Co”rdinator OCMW/Diensthoofd ICT en Communicatie,PO00286494/SOQ600325,,
+284,,Hardware,,5CD72964WP,LAP0249,HP,Laptop,Probook 450 G4 i7-7500u - 8GB 256GB-SSD (Y8A30EA),GSBO Klim-op,Actief - Mobiel,,,,
+285,"Roelstraete, Marleen",Hardware,,PF1WQF68,LAP0424,Lenovo,Laptop,ThinkPad T590 20N4-003MB,GP - Gemeentepunt,Actief,Bestuurszaken,PO00281814/SOQ596915/1,,
+286,,Hardware,,5CG10873P8,LAP0565,HP,Laptop,HP Elitebook 850 G8,Stock IT,Actief,ICT Bureel,1G1X7AV,,
+287,"Forrier, Jordy",Hardware,,PF1X46MA,LAP0453,Lenovo,Laptop,ThinkPad T590 20N4-0033MB,ATD - algemeen technische dienst,Actief,,PO00286494/SOQ600325,172.19.2.179,
+288,"De Bo, Sander",Hardware,,PF2TBN7L,LAP0592,Lenovo,Laptop,Thinkpad P15s Gen 1,GP - Gemeentepunt,Non Actief,Financieel Beheerder,,,
+289,"Opstoel, Carla",Hardware,,5CG9021Q9V,LAP0360,HP,Laptop,Elitebook 850 G5,GP - Gemeentepunt,Actief,,2FH32AV,,"lap0358.zwevegem.local -> 172.19.1.24 en 172.20.2.54
+
+Voor Yana.Claeys@zwevegem.be (ter vervanging Depaepe Janne)"
+290,"Pluvinage, Veerle",Hardware,,SPF3GBM69,LAP0596,Lenovo,Laptop,Thinkpad L15 Gen 2,Zwevegem,Actief,,PO00332498/SOQ626140/1,,
+291,,Hardware,,5CG45159Z4,LAP0152,HP,Laptop,Probook 650 G1 i5-4210 8GB 500 GB (F1P89ET),TRANSFODKO - Transfo Directeurswoning,Actief,,,,"19-11-2018: installatie Windows 7 + nieuwe labels 
+11-01-2018 13:21 Luc Velghe: uit domein gehaald
+29-03-2017 10:38 Luc Velghe: opnieuw uitgerold met Windows 10"
+292,,Hardware,,5CG8020SK7,LAP0284,HP,Laptop,Probook 650 G2 i3-6100u (V3Q59AV),GP - Gemeentepunt,Actief - Mobiel,,,,
+293,"Vanoverberghe, Jasmien",Hardware,,5CG62906GG,LAP0227,HP,Laptop,Elitebook 850 G3,Zwevegem,Actief,,,,
+294,"Dewaele, Isabelle",Hardware,,5CD72964WR,LAP0255,HP,Laptop,Probook 450 G4 i7-7500u - 8GB 256GB-SSD (Y8A30EA),GSKLI100 - Gemeenteschool Klim-op blok 100,Actief - Mobiel,,,,
+295,,Hardware,,5CG82956RY,LAP0326,HP,Laptop,Elitebook 850 G3 - i5-6200U (L3D23AV),Stock IT,Non Actief,,84V697607001,,
+296,,Hardware,,,LAP0531,Lenovo,Laptop,Thinkpad T15 Gen 1,Stock IT,Actief,,,,
+297,,Hardware,,5CB24718GT,LAP0054,HP,Laptop,Probook 6570b i5-3210M 15 4GB/500 (B6P79EA),GSSD - Gemeenteschool Sint-Denijs,Actief - Mobiel,1ste leerjaar,,,
+298,,Hardware,,PF1X4PGS,LAP0452,Lenovo,Laptop,ThinkPad T590 20N4-0033MB,GP - Gemeentepunt,In Herstelling,IT,PO00286494/SOQ600325,172.19.2.178,01/10/2021: USB-c 1 ingang werkt niet meer
+299,,Hardware,,,LAP0581,Lenovo,Laptop,Thinkpad T15 Gen 1,Stock IT,Non Actief,,,,
+300,"Flour, Aagje",Hardware,,5CB3460KKD,LAP0081,HP,Laptop,Probook 6570b i5-3230M,GSKLI200 - Gemeenteschool Klim-op blok 200,Non Actief,208,,,29-11-2017 08:41 Luc Velghe: uitgerold voor gebruik binnen netwerk
+301,"Vervaecke, Liesje",Hardware,,5CG0372JVR,LAP0495,HP,Laptop,EliteBook 850 G7 Notebook,GSSD - Gemeenteschool Sint-Denijs,Actief,,8TP58AV,,
+302,,Hardware,,CND6183351,LAP0202,HP,Laptop,250 G4 N2840 4Gb 500Gb (N0Z80EA) + 4Gb ram,GSDGK - Gemeenteschool De Groene Kouter,Actief,,,,
+303,"Mattens, Judith",Hardware,,5CG9372JCG,LAP0399,HP,Laptop,Probook 650 G5 - I5-8265U,Zwevegem,Actief,,SOQ593623/1,,
+304,,Hardware,,5CB32500RV,LAP0065,HP,Laptop,Probook 6570b i5-3210M 15 4GB/500 (C5A59EA),GSBO Klim-op,Actief - Mobiel,,,,
+305,"Lager 4a, Groene Kouter",Hardware,,5CG54934MF,LAP0191,HP,Laptop,Probook 650 G1 i5-4210 8GB 500 GB (F1P89ET),GSDGK - Gemeenteschool De Groene Kouter,Actief - Mobiel,lager 4a (1.01),,,
+306,,Hardware,,5CB24718GW,LAP0055,HP,Laptop,Probook 6570b i5-3210M 15 4GB/500 (B6P79EA),GSKO - Gemeenteschool Kouterschool,Actief - Mobiel,,,,
+307,"Verwee, Ann-Sophie",Hardware,,PF1NZD7M,LAP0375,Lenovo,Laptop,ThinkPad X390 i5-8265U 2x8/256GB Win10pro 20Q0000QMB,GSKO - Gemeenteschool Kouterschool,Actief,,P000264022/SOQ585402/1,,
+308,"Debue, Mieke",Hardware,,SPF26HPTT,LAP0471,Lenovo,Laptop,ThinkPad T590 20N4-0033MB,GP - Gemeentepunt,Actief,OCMW,PO00286494/SOQ600325,,
+309,"Fillieux, Ann",Hardware,,5CG8020SKF,LAP0281,HP,Laptop,Probook 650 G2 i3-6100u (V3Q59AV),GP - Gemeentepunt,Actief - Mobiel,Vrije tijd,,,
+310,"Spincemaille, Eliane",Hardware,,SPF2WJQ5A,LAP0570,Lenovo,Laptop,Thinkpad T15 Gen 1,GP - Gemeentepunt,Actief,Schepenen,,,
+311,"Peferoen, Katrien",Hardware,,5CG8293K36,LAP0346,HP,Laptop,Elitebook 850 G3 - i5-6200U (L3D23AV),GP - Gemeentepunt,Actief,,84V685215001,,
+312,,Hardware,,SPF3GBM6K,LAP0618,Lenovo,Laptop,Thinkpad L15 Gen 2,Stock IT,Non Actief,,PO00332498/SOQ626140/1,,
+313,,Hardware,,5CG54934PJ,LAP0197,HP,Laptop,Probook 650 G1 i5-4210 8GB 500 GB (F1P89ET),Stock IT,Non Actief,ICT Bureel (Kast A),,,
+314,,Hardware,,SPF3GBXA2,LAP0614,Lenovo,Laptop,Thinkpad L15 Gen 2,Stock IT,Non Actief,,PO00332498/SOQ626140/1,,
+315,"Ternier, Mattias",Hardware,,R90T5VA1,LAP0366,Lenovo,Laptop,ThinkPad L390 Yoga 20NT i5 8GB 256GB SSD Win10pro (BT025),GP - Gemeentepunt,Actief,IT,P000259665/SOQ5830063/1,,
+316,"Declercq, Els",Hardware,,5CD72964W7,LAP0244,HP,Laptop,Probook 450 G4 i7-7500u - 8GB 256GB-SSD (Y8A30EA),GSKLI200 - Gemeenteschool Klim-op blok 200,Actief - Mobiel,Inkom,,,
+317,,Hardware,,,LAP0585,Lenovo,Laptop,Thinkpad T15 Gen 1,Stock IT,Non Actief,,,,
+318,"Vandeburie, Dirk",Hardware,,PF1WQF5A,LAP0423,Lenovo,Laptop,ThinkPad T590 20N4-003MB,GP - Gemeentepunt,Actief,Bestuurszaken,PO00281814/SOQ596915/1,,
+319,,Hardware,,,LAP0589,Lenovo,Laptop,Thinkpad T15 Gen 1,Stock IT,Non Actief,,,,
+320,"Verbrugghe, Karen",Hardware,,5CG0440NCL,LAP0515,HP,Laptop,EliteBook 850 G7 Notebook,Zwevegem,Actief,,8TP58AV,,
+321,,Hardware,,SPF3GBTY0,LAP0607,Lenovo,Laptop,Thinkpad L15 Gen 2,Stock IT,Non Actief,,PO00332498/SOQ626140/1,,
+322,,Hardware,,PC1FVJXQ,LAP0501,Lenovo,Laptop,ThinkPad X390 i5-8265U 2x8/256GB Win10pro 20Q0000QMB,WZC,Actief,,PO00273812,,
+323,"Algoet, Claudine",Hardware,CBS951,5CB146423S,LAP0027,HP,Laptop,Elitebook 8560p i5-2540M (LG732ET),GP - Gemeentepunt,Afgevoerd,,,,"Uitleenpool laptop
+
+-> Via F12 opnieuw uitgerold - Windows 10
+-> Domain computers
+-> UG_Deploy_AdobeAcrobatReader, UG_Deploy_HPSupportAssistant
+-> UG_Draadloos_Toegang
+-> UG_Manueel_Java
+
+-> DHCP aangepast van CBS951 naar LAP0027 (IP adressen: 172.19.25.3 en 172.20.0.117)"
+324,"Vandenbulcke, Renate",Hardware,,PF26JQTY,LAP0440,Lenovo,Laptop,ThinkPad T590 20N4-0033MB,Zwevegem,Actief,,PO00286494/SOQ600325,172.19.2.166,
+325,"Debels, Flore",Hardware,,5CG0372JVN,LAP0494,HP,Laptop,EliteBook 850 G7 Notebook,Zwevegem,Actief,,8TP58AV,,
+326,,Hardware,,CND618320M,LAP0203,HP,Laptop,250 G4 N2840 4Gb 500Gb (N0Z80EA) + 4Gb ram,GSDGK - Gemeenteschool De Groene Kouter,Actief,,,,
+327,"Staelens, Karolien",Hardware,,5CD72964WY,LAP0268,HP,Laptop,Probook 450 G4 i7-7500u - 8GB 256GB-SSD (Y8A30EA),Zwevegem,Actief - Mobiel,,,,
+328,"Sarasyn, Valerie",Hardware,,PF1NZF0V,LAP0373,Lenovo,Laptop,ThinkPad X390 i5-8265U 2x8/256GB Win10pro 20Q0000QMB,GP - Gemeentepunt,Actief,,P000264022/SOQ585402/1,,
+329,"Staelens, Evelien",Hardware,,5CG0440NCJ,LAP0513,HP,Laptop,EliteBook 850 G7 Notebook,Zwevegem,Actief,,8TP58AV,,
+330,"Vanoverberghe, Kristien",Hardware,,5CG94509R7,LAP0414,HP,Laptop,Probook 650 G5 - I5-8265U,Zwevegem,Actief,,SOQ593623/1,,
+331,"Stage, ADM",Hardware,,SPF26J6HY,LAP0469,Lenovo,Laptop,ThinkPad T590 20N4-0033MB,Zwevegem,In Herstelling,,PO00286494/SOQ600325,,
+332,"Baetens, Julie",Hardware,,5CG8225VHL,LAP0319,HP,Laptop,Probook 650 G4 - i5-7200  (2GN00AV),Zwevegem,Actief - Mobiel,,,,
+333,"Goeminne, Jurgen",Hardware,,R90T5VA2,LAP0367,Lenovo,Laptop,ThinkPad L390 Yoga 20NT i5 8GB 256GB SSD Win10pro (BT025),Zwevegem,Actief,,P000259665/SOQ5830063/1,,
+334,"Holvoet, Tinneke",Hardware,,5CG0440NCF,LAP0510,HP,Laptop,EliteBook 850 G7 Notebook,Zwevegem,Actief,,8TP58AV,,
+335,"Vandenbroucke, Marie",Hardware,,PF1NZEYK,LAP0369,Lenovo,Laptop,ThinkPad X390 i5-8265U 2x8/256GB Win10pro 20Q0000QMB,Zwevegem,Actief,,P000264022/SOQ585402/1,,De usb-c poort om de laptop te laden werkt niet meer
+336,,Hardware,,,LAP0583,Lenovo,Laptop,Thinkpad T15 Gen 1,Stock IT,Non Actief,,,,
+337,,Hardware,,5CG10873P7,LAP0564,HP,Laptop,HP Elitebook 850 G8,Stock IT,Actief,ICT Bureel,1G1X7AV,,
+338,,Hardware,,5CB24718GQ,LAP0047,HP,Laptop,Probook 6570b i5-3210M 15 4GB/500 (B6P79EA),GSBO Klim-op,Actief - Mobiel,,,,
+339,,Hardware,,5CB32500RS,LAP0069,HP,Laptop,Probook 6570b i5-3210M 15 4GB/500 (C5A59EA),GSSD - Gemeenteschool Sint-Denijs,Actief - Mobiel,,,,Leerlingenlaptop
+340,"Mortier, Peter",Hardware,,SPF26HPY2,LAP0468,Lenovo,Laptop,ThinkPad T590 20N4-0033MB,BIB - Bibliotheek,Actief,,PO00286494/SOQ600325,,
+341,"Coulon, Lisa",Hardware,,5CD72964X2,LAP0264,HP,Laptop,Probook 450 G4 i7-7500u - 8GB 256GB-SSD (Y8A30EA),GSKLI100 - Gemeenteschool Klim-op blok 100,Actief - Mobiel,,,,24-08-2017 10:42 Luc Velghe: meegenomen door Bart desmet  -zorgt zelf voor installatie
+342,"Reynaert, Anneloor",Hardware,,5CG94509NX,LAP0407,HP,Laptop,Probook 650 G5 - I5-8265U,Zwevegem,Actief,,SOQ593623/1,,
+343,"Lapauw, Stephanie",Hardware,,PF1X4ZQV,LAP0458,Lenovo,Laptop,ThinkPad T590 20N4-0033MB,Zwevegem,Actief,,PO00286494/SOQ600325,172.19.2.184,
+344,,Hardware,,SPF3GBM5E,LAP0609,Lenovo,Laptop,Thinkpad L15 Gen 2,Stock IT,Non Actief,,PO00332498/SOQ626140/1,,
+345,"Vandenkerckhove, Ivan",Hardware,,5CG8293K5B,LAP0354,HP,Laptop,Elitebook 850 G3 - i5-6200U (L3D23AV),WZC,Actief,,84V685215001,,
+346,,Hardware,,5CB3450NJV,LAP0077,HP,Laptop,Probook 6570b i5-3230M,GSKLI200 - Gemeenteschool Klim-op blok 200,Actief - Mobiel,,,,
+347,,Hardware,,,LAP0520,Lenovo,Laptop,Thinkpad T15 Gen 1,Stock IT,Actief,,,,
+348,,Hardware,,CND5427NVP,LAP0187,HP,Laptop,250 G4 N2840 4Gb 500Gb (N0Z80EA),GSBO Klim-op,Offline (Niet meer AD en DHCP),,,,
+349,"Heughebaert, Kelly",Hardware,,5CG8225V9Q,LAP0299,HP,Laptop,Probook 650 G4 - i5-7200  (2GN00AV),GSKO - Gemeenteschool Kouterschool,Actief - Mobiel,Leerjaar 3A,,,
+350,"Huysentruyt, Kevin",Hardware,,SPF3GBX8E,LAP0602,Lenovo,Laptop,Thinkpad L15 Gen 2,Zwevegem,Actief,,PO00332498/SOQ626140/1,,
+351,"Goeminne, Jurgen",Hardware,,,LAP0528,Lenovo,Laptop,Thinkpad T15 Gen 1,Zwevegem,Actief,,,,
+352,,Hardware,,,LAP0518,Lenovo,Laptop,Thinkpad T15 Gen 1,Stock IT,Actief,,,,
+353,"Anckaert, Joke",Hardware,,SPF26HDAJ,LAP0470,Lenovo,Laptop,ThinkPad T590 20N4-0033MB,GP - Gemeentepunt,Actief,,PO00286494/SOQ600325,,
+354,"Vanwynsberghe, Stefanie",Hardware,,5CG82956TZ,LAP0333,HP,Laptop,Elitebook 850 G3 - i5-6200U (L3D23AV),WZC,Actief,,84V697607001,,"Defect op 25 maart, scherm"
+355,"De Clercq, Heidi",Hardware,,PF1X54TE,LAP0454,Lenovo,Laptop,ThinkPad T590 20N4-0033MB,TRANSFODKO - Transfo Directeurswoning,Actief,,PO00286494/SOQ600325,172.19.2.180,
+356,"Lottin, Alexia",Hardware,,SPF2BNH4F,LAP0462,Lenovo,Laptop,ThinkPad T590 20N4-0033MB,Zwevegem,Actief,,PO00286494/SOQ600325,,
+357,"Vandenbroucke, Chris",Hardware,,SPF3GBZH3,LAP0601,Lenovo,Laptop,Thinkpad L15 Gen 2,GP - Gemeentepunt,Actief,Vrije tijd,PO00332498/SOQ626140/1,,
+358,"Decraene, Jolien",Hardware,,5CG94509NJ,LAP0406,HP,Laptop,Probook 650 G5 - I5-8265U,GSKLI200 - Gemeenteschool Klim-op blok 200,Actief,,SOQ593623/1,,
+359,"De Smet, Chantal",Hardware,,5CG8225V6Z,LAP0291,HP,Laptop,Probook 650 G4 - i5-7200  (2GN00AV),Zwevegem,Actief - Mobiel,,,,
+360,,Hardware,,5CG10873PG,LAP0546,HP,Laptop,HP Elitebook 850 G8,Stock IT,Actief,ICT Bureel,1G1X7AV,,
+361,"Defoort, Ruth",Hardware,,SPF26JQWQ,LAP0477,Lenovo,Laptop,ThinkPad T590 20N4-0033MB,Zwevegem,Actief,,PO00286494/SOQ600325,,
+362,,Hardware,,SPF26NH2K,LAP0478,Lenovo,Laptop,ThinkPad T590 20N4-0033MB,Stock IT,Non Actief,,PO00286494/SOQ600325,,
+363,"Demuynck, Jolijn",Hardware,,5CG62906Y5,LAP0231,HP,Laptop,Elitebook 850 G3,GP - Gemeentepunt,Actief,Personeelsdienst - Back Office,,,
+364,"Descamps, Mieke",Hardware,,5CG8225VH9,LAP0318,HP,Laptop,Probook 650 G4 - i5-7200  (2GN00AV),Zwevegem,Actief - Mobiel,,,,Zie ticket I190606 003
+365,,Hardware,,,LAP0538,Lenovo,Laptop,Thinkpad T15 Gen 1,Stock IT,Actief,,,,
+366,"Catteeuw, Tine",Hardware,,5CG62906HW,LAP0213,HP,Laptop,Elitebook 850 G3,GP - Gemeentepunt,Actief,Personeelsdienst - Back Office,,,
+367,,Hardware,,5CG62906F1,LAP0219,HP,Laptop,Elitebook 850 G3,Stock IT,Actief,,,,
+368,"Bettens, Delphine",Hardware,,5CG7292SHL,LAP0240,HP,Laptop,Elitebook 850 G3,ATD - algemeen technische dienst,Actief,,,,
+369,,Hardware,,CND61832F2,LAP0210,HP,Laptop,250 G4 N2840 4Gb 500Gb (N0Z80EA) + 4Gb ram,GSDGK - Gemeenteschool De Groene Kouter,Actief,,,,
+370,"Decuypere, Filip",Hardware,,5CG9372M5D,LAP0393,HP,Laptop,Probook 650 G5 - I5-8265U,Zwevegem,Actief,,SOQ593623/1,,
+371,"SintDenijs, Opvang",Hardware,,5CG8225VGX,LAP0316,HP,Laptop,Probook 650 G4 - i5-7200  (2GN00AV),Zwevegem,Actief - Mobiel,,,,
+372,"Decock, Elien",Hardware,,5CD72964WH,LAP0250,HP,Laptop,Probook 450 G4 i7-7500u - 8GB 256GB-SSD (Y8A30EA),GSKLI100 - Gemeenteschool Klim-op blok 100,Actief,,,,
+373,"Adam, Pauline",Hardware,,PC1FVJY0,LAP0480,Lenovo,Laptop,"ThinkPad X390 i5-8265U 8/256SSD 20Q00056MB 13""",Zwevegem,Actief,,PO00286494/SOQ600325,,
+374,"Saelens, Sofie",Hardware,,5CG7271GD3,LAP0237,HP,Laptop,Elitebook 850 G3,GP - Gemeentepunt,Actief,,,,
+375,,Hardware,,5CB3450NK7,LAP0076,HP,Laptop,Probook 6570b i5-3230M,GSBO Klim-op,Actief - Mobiel,,,,
+376,"Decock, Charline",Hardware,,PF1X2Z84,LAP0456,Lenovo,Laptop,ThinkPad T590 20N4-0033MB,GP - Gemeentepunt,Actief,Vrije tijd,PO00286494/SOQ600325,172.19.2.182,
+377,"Ampe, Nathalie",Hardware,,5CG8225XG8,LAP0320,HP,Laptop,Probook 650 G4 - i5-7200  (2GN00AV),Zwevegem,Actief,,,,
+378,"Van Parijs, Alison",Hardware,,5CG0440NCH,LAP0512,HP,Laptop,EliteBook 850 G7 Notebook,Zwevegem,Actief,,8TP58AV,,
+379,,Hardware,,CNU423B0XS,LAP0133,HP,Laptop,Probook 650 G1 i5-4200 4GB 500 GB,TRANSFODKO - Transfo Directeurswoning,Actief,,,,
+380,,Hardware,,CND71027MD,LAP0083,HP,Laptop,Compac NC6400,ATD - algemeen technische dienst,Actief - Mobiel,,,,"
+- vroegere pc van Tomas Bulcaen
+- nu opgezet met preload voor gebruik binnen dienst gebouwen. Ifv programmatie van toestellen over 'seri‰le poort'"
+381,,Hardware,,SPF3GBJY6,LAP0594,Lenovo,Laptop,Thinkpad L15 Gen 2,Stock IT,Non Actief,,PO00332498/SOQ626140/1,,
+382,"Allaert, Katelijn",Hardware,,5CG8225VDM,LAP0312,HP,Laptop,Probook 650 G4 - i5-7200  (2GN00AV),Zwevegem,Actief - Mobiel,,,,
+383,"Vannieuwenhuyse, Carine",Hardware,,5CG8225VB8,LAP0302,HP,Laptop,Probook 650 G4 - i5-7200  (2GN00AV),GSKN - gemeenteschool Knokke onderbouw,Actief - Mobiel,secretariaat,,,
+384,,Hardware,wasatelier,2CE3082666,LAP0060,HP,Laptop,"Probook 4540s -3-3110M 15,6 4G/500 (H5J00EA)",Kringloopwinkel,Actief - Mobiel,,,,
+385,"Velghe, Arno",Hardware,,5CG8225XH7,LAP0321,HP,Laptop,Probook 650 G4 - i5-7200  (2GN00AV),Zwevegem,Actief - Mobiel,,,,Vervanger is Vantieghem An
+386,"Mahieu, Daisy",Hardware,,,LAP0519,Lenovo,Laptop,Thinkpad T15 Gen 1,GP - Gemeentepunt,Actief,,,,
+387,"Demuynck, Jolijn",Hardware,,SPF3GBTYL,LAP0598,Lenovo,Laptop,Thinkpad L15 Gen 2,GP - Gemeentepunt,Actief,Personeelsdienst - Back Office,PO00332498/SOQ626140/1,,
+388,"Vander Linden, Vicky",Hardware,,5CG8225V9W,LAP0300,HP,Laptop,Probook 650 G4 - i5-7200  (2GN00AV),Zwevegem,Actief - Mobiel,,,,
+389,"Vanlangenhove, Jan",Hardware,,PC1FSG97,LAP0428,Lenovo,Laptop,"ThinkPad X390 i5-8265U 8/256SSD 20Q00056MB 13""",GP - Gemeentepunt,Actief,,PO00281814/SOQ596915/1,,
+390,"Desmet, Kurt",Hardware,,5CG82956SN,LAP0329,HP,Laptop,Elitebook 850 G3 - i5-6200U (L3D23AV),ATD - algemeen technische dienst,Actief,,84V697607001,,
+391,,Hardware,,SPF3GBV13,LAP0610,Lenovo,Laptop,Thinkpad L15 Gen 2,Stock IT,Non Actief,,PO00332498/SOQ626140/1,,
+392,"Verhoest, Davide",Hardware,,5CD72964WC,LAP0262,HP,Laptop,Probook 450 G4 i7-7500u - 8GB 256GB-SSD (Y8A30EA),Zwevegem,Actief - Mobiel,,,,24-08-2017 10:42 Luc Velghe: meegenomen door Bart desmet  -zorgt zelf voor installatie
+393,"Desmet, Bart",Hardware,,5CB3380KK3,LAP0079,HP,Laptop,Probook 6570b i5-3230M,GSSD - Gemeenteschool Sint-Denijs,Actief - Mobiel,,,,
+394,"Debuyck, Els",Hardware,,5CG10873P4,LAP0561,HP,Laptop,HP Elitebook 850 G8,Zwevegem,Actief,,1G1X7AV,,
+395,"Doutreluingne, Marc",Hardware,,5CG62906G3,LAP0222,HP,Laptop,Elitebook 850 G3,GP - Gemeentepunt,Actief,Burgemeester,,,
+396,,Hardware,,5CG10873PJ,LAP0548,HP,Laptop,HP Elitebook 850 G8,Stock IT,Actief,ICT Bureel,1G1X7AV,,
+397,,Hardware,,CND61832H9,LAP0200,HP,Laptop,250 G4 N2840 4Gb 500Gb (N0Z80EA) + 4Gb ram,GSDGK - Gemeenteschool De Groene Kouter,Offline (Niet meer AD en DHCP),,,,
+398,,Hardware,,5CG10873PL,LAP0550,HP,Laptop,HP Elitebook 850 G8,Stock IT,Actief,ICT Bureel,1G1X7AV,,
+399,"Devos, Kristien",Hardware,,5CG82956X3,LAP0342,HP,Laptop,Elitebook 850 G3 - i5-6200U (L3D23AV),Zwevegem,Actief,,84V697607001,,
+400,"Vanhoutte, Veerle",Hardware,,5CD72964WJ,LAP0263,HP,Laptop,Probook 450 G4 i7-7500u - 8GB 256GB-SSD (Y8A30EA),GSKLI200 - Gemeenteschool Klim-op blok 200,Actief - Mobiel,204,,,24-08-2017 10:42 Luc Velghe: meegenomen door Bart desmet  -zorgt zelf voor installatie
+401,,Hardware,,CND541311N,LAP0174,HP,Laptop,250 G4 N2840 4Gb 500Gb (N0Z80EA),GSH - Gemeenteschool Heestert,Actief,,,,
+402,"Deconinck, Diane",Hardware,,5CG8020SL1,LAP0279,HP,Laptop,Probook 650 G2 i3-6100u (V3Q59AV),Zwevegem,Actief,,,,
+403,"Lambrecht, Ann",Hardware,,5CG8225V7F,LAP0293,HP,Laptop,Probook 650 G4 - i5-7200  (2GN00AV),GSHV Vierkeer school Heestert,Actief - Mobiel,,,,
+404,"Dewyn, Sofie",Hardware,ex DKO657,CND0261CHK,LAP0190,HP,Laptop,Elitebook 8540w (WD927EA),GP - Gemeentepunt,Actief - Mobiel,Vrije tijd,,,"13-10-2016 17:04 Luc Velghe: voor uitleenpool
+07-07-2016 18:01 Luc Velghe: naar VT voor vakantiewerking speelplein"
+405,"Depaepe, Sien",Hardware,,5CG8293K4S,LAP0352,HP,Laptop,Elitebook 850 G3 - i5-6200U (L3D23AV),WZC,Actief,Keuken - bureel keukenmanager,84V685215001,,
+406,"AsterBoterbloem,",Hardware,,5CG0440NC7,LAP0504,HP,Laptop,EliteBook 850 G7 Notebook,Zwevegem,Actief,,8TP58AV,,
+407,"Vanhoutte, Piet",Hardware,,PC1FSG99,LAP0429,Lenovo,Laptop,"ThinkPad X390 i5-8265U 8/256SSD 20Q00056MB 13""",GP - Gemeentepunt,Actief,,PO00281814/SOQ596915/1,,
+408,"Barclay, Gillian",Hardware,,5CD72964WS,LAP0270,HP,Laptop,Probook 450 G4 i7-7500u - 8GB 256GB-SSD (Y8A30EA),Zwevegem,Actief - Mobiel,,,,
+409,"Vanhaesebroucke, Caroline",Hardware,,5CG9372M54,LAP0397,HP,Laptop,Probook 650 G5 - I5-8265U,Zwevegem,Actief,,SOQ593623/1,,
+410,"De Boever, Machteld",Hardware,,5CD72964WD,LAP0254,HP,Laptop,Probook 450 G4 i7-7500u - 8GB 256GB-SSD (Y8A30EA),GSKLI100 - Gemeenteschool Klim-op blok 100,Actief - Mobiel,,,,
+411,"Vervaecke, Liesje",Hardware,,5CG8225V80,LAP0295,HP,Laptop,Probook 650 G4 - i5-7200  (2GN00AV),GSSD - Gemeenteschool Sint-Denijs,Actief - Mobiel,,,,
+412,"Verhelst, Maud",Hardware,,PF26HVRL,LAP0444,Lenovo,Laptop,ThinkPad T590 20N4-0033MB,Zwevegem,Actief,,PO00286494/SOQ600325,172.19.2.170,
+413,"Steen, Annelies",Hardware,,PF1NZD4S,LAP0378,Lenovo,Laptop,ThinkPad X390 i5-8265U 2x8/256GB Win10pro 20Q0000QMB,GP - Gemeentepunt,Actief,Communicatie,P000264022/SOQ585402/1,,
+414,,Hardware,,5CB3450NK8,LAP0078,HP,Laptop,Probook 6570b i5-3230M,GSKLI100 - Gemeenteschool Klim-op blok 100,Actief - Mobiel,105,,,
+415,,Hardware,,,LAP0587,Lenovo,Laptop,Thinkpad T15 Gen 1,Stock IT,Non Actief,,,,
+416,"Arnout, Laura",Hardware,,5CG8225VF4,LAP0313,HP,Laptop,Probook 650 G4 - i5-7200  (2GN00AV),GSDGK - Gemeenteschool De Groene Kouter,Actief - Mobiel,,,,
+417,"Velghe, Julie",Hardware,,PF1NTSP2,LAP0371,Lenovo,Laptop,ThinkPad X390 i5-8265U 2x8/256GB Win10pro 20Q0000QMB,GP - Gemeentepunt,Actief,,P000264022/SOQ585402/1,,
+418,"Seynaeve, Annelien",Hardware,,5CD72964W6,LAP0253,HP,Laptop,Probook 450 G4 i7-7500u - 8GB 256GB-SSD (Y8A30EA),GSKLI100 - Gemeenteschool Klim-op blok 100,Actief - Mobiel,,,,
+419,"Demeyere, Laurein",Hardware,,5CG62906HF,LAP0224,HP,Laptop,Elitebook 850 G3,Zwevegem,Non Actief,,,,
+420,,Hardware,,CNU90364K9,LAP0138,HP,Laptop,6730b (GB987EA),GSSD - Gemeenteschool Sint-Denijs,Actief - Mobiel,Directeur,,,
+421,"Verstraete, Hilde",Hardware,,5CG537647T,LAP0183,HP,Laptop,Probook 650 G1 i5-4210 8GB 500 GB (F1P89ET),Zwevegem,Actief - Mobiel,,,,
+422,,Hardware,,SPF3GBTZ0,LAP0606,Lenovo,Laptop,Thinkpad L15 Gen 2,Stock IT,Non Actief,,PO00332498/SOQ626140/1,,
+423,"Vandenhende, Katrien",Hardware,,5CG9372Q4C,LAP0401,HP,Laptop,Probook 650 G5 - I5-8265U,GSKLI100 - Gemeenteschool Klim-op blok 100,Actief,,SOQ593623/1,,
+424,"Delaere, Zoe",Hardware,,PF26JXQN,LAP0447,Lenovo,Laptop,ThinkPad T590 20N4-0033MB,Zwevegem,Actief,,PO00286494/SOQ600325,172.19.2.173,
+425,,Hardware,,SPF2T4HV3,LAP0576,Lenovo,Laptop,Thinkpad T15 Gen 1,Stock IT,Non Actief,,,,
+426,,Hardware,,5CB1421MS0,LAP0036,HP,Laptop,"630 P7570 15,6 4Gb (LH395EA)",GSBO Klim-op,Actief - Mobiel,Aagje,,,
+427,"Depraetere, Fran",Hardware,,5CG9450B9W,LAP0418,HP,Laptop,Probook 650 G5 - I5-8265U,Zwevegem,Actief,,SOQ593623/1,,
+428,,Hardware,,5CG8293K2N,LAP0344,HP,Laptop,Elitebook 850 G3 - i5-6200U (L3D23AV),Stock IT,Actief,,84V685215001,,
+429,"Bouckenooghe, Wannes",Hardware,,PF26NH6C,LAP0433,Lenovo,Laptop,ThinkPad T590 20N4-0033MB,GP - Gemeentepunt,Actief,,PO00286494/SOQ600325,,
+430,"Willem, Josefien",Hardware,,5CG7271GDQ,LAP0236,HP,Laptop,Elitebook 850 G3,WZC,Actief,Bureel administratie,,,
+431,,Hardware,,SPF3GBRNW,LAP0616,Lenovo,Laptop,Thinkpad L15 Gen 2,Stock IT,Non Actief,,PO00332498/SOQ626140/1,,
+432,"Mullie, Myriam",Hardware,,PF26HGBK,LAP0430,Lenovo,Laptop,ThinkPad T590 20N4-0033MB,GP - Gemeentepunt,Actief,Communicatie,PO00286494/SOQ600325,,
+433,,Hardware,,CND130BX47,LAP0016,HP,Laptop,Elitebook 8540w i5-520M (WD927EA),GP - Gemeentepunt,Actief,,,,
+434,"Coucke, Joke",Hardware,,5CG94509G7,LAP0417,HP,Laptop,Probook 650 G5 - I5-8265U,Zwevegem,Actief,,SOQ593623/1,,
+435,"Devos, Darline",Hardware,,5CG8225VCH,LAP0306,HP,Laptop,Probook 650 G4 - i5-7200  (2GN00AV),Zwevegem,Actief - Mobiel,,,,
+436,"Vandepitte, Balou",Hardware,,PF26K3S2,LAP0435,Lenovo,Laptop,ThinkPad T590 20N4-0033MB,Zwevegem,Actief,,PO00286494/SOQ600325,172.19.2.161,
+437,"Willaert, Bart",Hardware,,5CG9450BC4,LAP0419,HP,Laptop,Probook 650 G5 - I5-8265U,GP - Gemeentepunt,Actief,Woon- en leefomgeving,SOQ593623/1,,
+438,,Hardware,,SPF3GBRMH,LAP0603,Lenovo,Laptop,Thinkpad L15 Gen 2,Stock IT,Non Actief,,PO00332498/SOQ626140/1,,
+439,"De Raeve, Kathy",Hardware,,5CG8293K5G,LAP0355,HP,Laptop,Elitebook 850 G3 - i5-6200U (L3D23AV),Zwevegem,Actief,,84V685215001,,
+440,,Hardware,,,LAP0517,Lenovo,Laptop,Thinkpad T15 Gen 1,GP - Gemeentepunt,Actief,Woon- en leefomgeving,,,
+441,"Defraeye, Eva",Hardware,,5CG0440NCK,LAP0514,HP,Laptop,EliteBook 850 G7 Notebook,Zwevegem,Actief,,8TP58AV,,
+442,"Battiau, Hendrik",Hardware,,5CG63631BH,LAP0234,HP,Laptop,Probook 650 G1 i5-6200 (),GSKLI200 - Gemeenteschool Klim-op blok 200,Actief,,,,
+443,"Demeyere, Laurein",Hardware,,5CG0372JVL,LAP0491,HP,Laptop,EliteBook 850 G7 Notebook,Zwevegem,Actief,,8TP58AV,,
+444,"Vander Beken, Liesbeth",Hardware,,PF26HGAH,LAP0438,Lenovo,Laptop,ThinkPad T590 20N4-0033MB,GP - Gemeentepunt,Actief,Woon- en leefomgeving,PO00286494/SOQ600325,172.19.2.164,
+445,"Vanassche, Koen",Hardware,,SPF2W5LM0,LAP0575,Lenovo,Laptop,Thinkpad T15 Gen 1,Zwevegem,Actief,,,,
+446,,Hardware,,5CD72964WL,LAP0252,HP,Laptop,Probook 450 G4 i7-7500u - 8GB 256GB-SSD (Y8A30EA),GSBO Klim-op,Actief - Mobiel,,,,
+447,"Baert, Tracy",Hardware,,5CG0440NCG,LAP0511,HP,Laptop,EliteBook 850 G7 Notebook,Zwevegem,Actief,,8TP58AV,,
+448,,Hardware,,SPF3GBM5S,LAP0615,Lenovo,Laptop,Thinkpad L15 Gen 2,Stock IT,Non Actief,,PO00332498/SOQ626140/1,,
+449,,Hardware,,CND5427NCP,LAP0184,HP,Laptop,250 G4 N2840 4Gb 500Gb (N0Z80EA),GSBO Klim-op,Offline (Niet meer AD en DHCP),,,,
+450,"Janssens, Marie-Ann",Hardware,,PF1WQF4S,LAP0422,Lenovo,Laptop,ThinkPad T590 20N4-003MB,GP - Gemeentepunt,Actief,Bestuurszaken,PO00281814/SOQ596915/1,,
+451,,Hardware,,CND3030PMY,LAP0061,HP,Laptop,Envy 4-1230 EB I5-3337U 6GB 500GB,GSKO - Gemeenteschool Kouterschool,Actief - Mobiel,Zorgklas,,,
+452,"KlimOp, Opvang",Hardware,,5CG8020SKV,LAP0282,HP,Laptop,Probook 650 G2 i3-6100u (V3Q59AV),Zwevegem,Actief - Mobiel,,,,
+453,"Deruyck, Cathy",Hardware,,PC1FVJYXZ,LAP0482,Lenovo,Laptop,"ThinkPad X390 i5-8265U 8/256SSD 20Q00056MB 13""",Zwevegem,Actief,,PO00286494/SOQ600325,,
+454,"Vandevelde, Sarah",Hardware,,5CG8225V90,LAP0296,HP,Laptop,Probook 650 G4 - i5-7200  (2GN00AV),Zwevegem,Actief,,,,
+455,"Vanthomme, Kaatje",Hardware,,PF1NZD64,LAP0374,Lenovo,Laptop,ThinkPad X390 i5-8265U 2x8/256GB Win10pro 20Q0000QMB,GP - Gemeentepunt,Actief,,P000264022/SOQ585402/1,,
+456,"Mortier, Peter",Hardware,,5CG5102R30,LAP0157,HP,Laptop,Probook 650 G1 i5-4210 8GB 500 GB (F1P89ET),BIB - Bibliotheek,Actief - Mobiel,,,,
+457,"Verstraeten, Wendy",Hardware,,5CG0372JVK,LAP0496,HP,Laptop,EliteBook 850 G7 Notebook,Zwevegem,Actief,,8TP58AV,,
+458,"Deblauwe, Thomas",Hardware,,5CG82956VL,LAP0322,HP,Laptop,Elitebook 850 G3 - i5-6200U (L3D23AV),Zwevegem,In Herstelling,,84V697607001,,I211220 019# Schermbreuk
+459,"De Ridder, Elke",Hardware,,PC1FR01Q,LAP0427,Lenovo,Laptop,"ThinkPad X390 i5-8265U 8/256SSD 20Q00056MB 13""",GP - Gemeentepunt,Actief,Bestuurszaken,PO00281814/SOQ596915/1,,
+460,"Knokke, Schoonmaak",Hardware,,5CG10873PQ,LAP0554,HP,Laptop,HP Elitebook 850 G8,Zwevegem,Actief,,1G1X7AV,,
+461,"SintDenijs, Opvang",Hardware,,5CG419DZS6,LAP0212,HP,Laptop,Envy 17 -J100EB - i7 - 8Gb  (F9F56EA),Zwevegem,Actief,,,,"27-06-2016 08:38 Luc Velghe: opgezet los van Netwerk (op windows 10) voor gebruik op speelpleinwerking
+27-06-2016 08:38 Luc Velghe: Gekocht door Paul De Necker vaniut vzw Transfo"
+462,,Hardware,,,LAP0530,Lenovo,Laptop,Thinkpad T15 Gen 1,Stock IT,Actief,,,,
+463,"Verstraete, Hilde",Hardware,,5CG54934TB,LAP0198,HP,Laptop,Probook 650 G1 i5-4210 8GB 500 GB (F1P89ET),Zwevegem,Actief - Mobiel,,,,
+464,"Delmotte, Syske",Hardware,,PF3ACBBE,LAP0593,Lenovo,Laptop,Thinkpad P14s Gen 1,GP - Gemeentepunt,Actief,Communicatie,,,
+465,,Hardware,,,LAP0529,Lenovo,Laptop,Thinkpad T15 Gen 1,Stock IT,Actief,,,,
+466,,Hardware,,5CB32500RT,LAP0070,HP,Laptop,Probook 6570b i5-3210M 15 4GB/500 (C5A59EA),GSHV Vierkeer school Heestert,Actief - Mobiel,,,,
+467,"Coorevits, Marianne",Hardware,,5CG9021QBD,LAP0359,HP,Laptop,Elitebook 850 G5,GP - Gemeentepunt,Actief,Personeelsdienst - Back Office,2FH32AV,,lap0358.zwevegem.local -> 172.19.1.24 en 172.20.2.54
+468,,Hardware,,CND61833GZ,LAP0207,HP,Laptop,250 G4 N2840 4Gb 500Gb (N0Z80EA) + 4Gb ram,GSDGK - Gemeenteschool De Groene Kouter,Actief,,,,
+469,,Hardware,ex-GKO949,5CB2011SQY,LAP0038,HP,Laptop,Probook 6560b (LG655EA),GSKO - Gemeenteschool Kouterschool,Actief - Mobiel,,,,"19-04-2016 15:48 Luc Velghe: terug naar GSKO voor Marian Gaeremynck: zorgleerkracht Kouter/Park   (zie: I151208 010)
+19-04-2016 15:47 Luc Velghe: opnieuw uitgerold met windows 10"
+470,"Coussement, Stijn",Hardware,,5CG423FTZ9,LAP0123,HP,Laptop,Probook 650 G1 i5-4200 4GB 500 GB,Zwevegem,Actief,,,172.20.0.22 - 172.19.1.15,
+471,,Hardware,,SPF2VA2X1,LAP0577,Lenovo,Laptop,Thinkpad T15 Gen 1,Stock IT,Non Actief,,,,
+472,"Catteeuw, Tine",Hardware,,SPF2WJEG5,LAP0572,Lenovo,Laptop,Thinkpad T15 Gen 1,GP - Gemeentepunt,Actief,Personeelsdienst - Back Office,,,
+473,"Davidts, Rutger",Hardware,,PF1K0EN5,LAP0379,Lenovo,Laptop,ThinkPad X390 i5-8265U 2x8/256GB Win10pro 20Q0000QMB,GP - Gemeentepunt,In Herstelling,,,,
+474,"Sablain, Nathalie",Hardware,,5CG9021Q9B,LAP0361,HP,Laptop,Elitebook 850 G5,GP - Gemeentepunt,Actief,,2FH32AV,,"lap0361.zwevegem.local -> 172.19.2.77 en 172.20.1.200
+
+-> Domain Computers
+-> Deploys: UG_deploy_AdobeAcrobatReader / UG_deploy_BelgiumeID / UG_HPsupportAssistant / UG_deploy_MSOnlineAss / UG_Deploy_VERIFIEER_Printer_GEM / UG_Draadloos_Toegang 
+-> Windows 10 Enterprise
+-> Windows update op 22/03/19
+-> HP update op 22/03/19 (incl. BIOS update 1.38)
+-> Voeding is 19,5Vdc en 3,33A / 65W"
+475,"Laigneil, Camille",Hardware,,5CG94509N7,LAP0411,HP,Laptop,Probook 650 G5 - I5-8265U,GSKLI100 - Gemeenteschool Klim-op blok 100,Actief,,SOQ593623/1,,
+476,"Baetens, Julie",Hardware,,5CG6194SK9,LAP0211,HP,Laptop,Probook 650 G1 i5-6200 8GB 256 GB (V1C17EA),Zwevegem,Actief - Mobiel,,,,
+477,"Dewaele, Isabelle",Hardware,,5CG94509FY,LAP0416,HP,Laptop,Probook 650 G5 - I5-8265U,GSKLI100 - Gemeenteschool Klim-op blok 100,Actief,,SOQ593623/1,,
+478,"Delmotte, Syske",Hardware,,PF1K0JYM,LAP0388,Lenovo,Laptop,ThinkPad X390 i5-8265U 2x8/256GB Win10pro 20Q0000QMB,GP - Gemeentepunt,Actief,Communicatie,PO00273812,,
+479,,Hardware,,5CB1421MT2,LAP0037,HP,Laptop,"630 P7570 15,6 4Gb (LH395EA)",GSBO Klim-op,Actief - Mobiel,,,,
+480,,Hardware,,SPF2W5QD9,LAP0567,Lenovo,Laptop,Thinkpad T15 Gen 1,Stock IT,Non Actief,,,,
+481,,Hardware,,5CG10873PT,LAP0557,HP,Laptop,HP Elitebook 850 G8,Stock IT,Actief,ICT Bureel,1G1X7AV,,
+482,,Hardware,,5CG6080FVP,LAP0189,HP,Laptop,Probook 650 G1 i5-4210 8GB 500 GB (F1P89ET),,Actief,,,,
+483,"Degezelle, Isabelle",Hardware,,PC1FVJY1,LAP0483,Lenovo,Laptop,"ThinkPad X390 i5-8265U 8/256SSD 20Q00056MB 13""",GP - Gemeentepunt,Actief,Schepenen,PO00286494/SOQ600325,,
+484,,Hardware,,CND5427N4W,LAP0185,HP,Laptop,250 G4 N2840 4Gb 500Gb (N0Z80EA),GSKLI200 - Gemeenteschool Klim-op blok 200,Actief - Mobiel,201,,,
+485,,Hardware,,,LAP0536,Lenovo,Laptop,Thinkpad T15 Gen 1,Stock IT,Actief,,,,
+486,"Vrijsen, Herwig",Hardware,,5CG5102R8L,LAP0158,HP,Laptop,Probook 650 G1 i5-4210 8GB 500 GB (F1P89ET),Zwevegem,Actief - Mobiel,,,,
+487,"Deblauwe, Thomas",Hardware,,5CG82956RN,LAP0325,HP,Laptop,Elitebook 850 G3 - i5-6200U (L3D23AV),Zwevegem,Actief,,84V697607001,,
+488,"Zimmermann, Luna",Hardware,,5CG82956T4,LAP0331,HP,Laptop,Elitebook 850 G3 - i5-6200U (L3D23AV),GSKLI200 - Gemeenteschool Klim-op blok 200,Actief,,84V697607001,,
+489,"Coorevits, Marianne",Hardware,,SPF3GBJYK,LAP0597,Lenovo,Laptop,Thinkpad L15 Gen 2,GP - Gemeentepunt,Actief,Personeelsdienst - Back Office,PO00332498/SOQ626140/1,,
+490,,Hardware,,5CG423FV1R,LAP0125,HP,Laptop,Probook 650 G1 i5-4200 4GB 500 GB,GSBO Klim-op,Actief - Mobiel,,,,
+491,"Gousseau, Janne",Hardware,,5CG8225V5T,LAP0289,HP,Laptop,Probook 650 G4 - i5-7200  (2GN00AV),Zwevegem,Actief - Mobiel,,,,
+492,"Malfait, Annelien",Hardware,,5CD72964X1,LAP0261,HP,Laptop,Probook 450 G4 i7-7500u - 8GB 256GB-SSD (Y8A30EA),Zwevegem,Actief - Mobiel,,,,24-08-2017 10:42 Luc Velghe: meegenomen door Bart desmet  -zorgt zelf voor installatie
+493,"Decostere, Hanne",Hardware,,5CG8293K4K,LAP0351,HP,Laptop,Elitebook 850 G3 - i5-6200U (L3D23AV),WZC,Actief,Bureel administratie,84V685215001,,
+494,"Dosquet, Mathieu",Hardware,,5CG82956XC,LAP0343,HP,Laptop,Elitebook 850 G3 - i5-6200U (L3D23AV),Zwevegem,Actief,,84V697607001,,
+495,"Legrand, Vicky",Hardware,,5CG0372JVS,LAP0499,HP,Laptop,EliteBook 850 G7 Notebook,Zwevegem,Actief,,8TP58AV,,
+496,,Hardware,,5CB24718GM,LAP0050,HP,Laptop,Probook 6570b i5-3210M 15 4GB/500 (B6P79EA),GSHG Gauwel school Heestert,Actief - Mobiel,,,,
+497,"Gaeremyn, Romy",Hardware,,5CG9372J30,LAP0398,HP,Laptop,Probook 650 G5 - I5-8265U,Zwevegem,Actief,,SOQ593623/1,,
+498,"Flour, Aagje",Hardware,,5CG94509RJ,LAP0405,HP,Laptop,Probook 650 G5 - I5-8265U,GSKLI200 - Gemeenteschool Klim-op blok 200,Actief,208,SOQ593623/1,,
+499,"Lagae, Jeroen",Hardware,,PC1FR01M,LAP0426,Lenovo,Laptop,"ThinkPad X390 i5-8265U 8/256SSD 20Q00056MB 13""",Zwevegem,Actief,,PO00281814/SOQ596915/1,,
+500,"Dobbelaere, Johan",Hardware,,5CG9372QD1,LAP0394,HP,Laptop,Probook 650 G5 - I5-8265U,Zwevegem,Actief,,SOQ593623/1,,
+501,"De Laere, Kurt",Hardware,,PC1FVJY2,LAP0481,Lenovo,Laptop,"ThinkPad X390 i5-8265U 8/256SSD 20Q00056MB 13""",GP - Gemeentepunt,Actief,IT,PO00286494/SOQ600325,,
+502,,Hardware,,5CG5210QRW,LAP0179,HP,Laptop,Probook 650 G1 i5-4210 8GB 500 GB (F1P89ET),TRANSFODKO - Transfo Directeurswoning,Actief,,,,19/11/2018: installatie Windows 7 + nieuwe labels

@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+    {% load static %}
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="{% static 'css/index.css'%}" >
+    
+  </head>
+  <body class="p-0 mb-0 background scroll-lock" >
+    <nav id="opacity" class="navbar navbar-expand-lg navbar-dark bg-primary border-bottom border-primary fixed-top">
+        <a class="navbar-brand" href="#">Navbar</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav">
+            <li class="nav-item active">
+              <a class="nav-link" href="{% url 'index' %}#">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">CV</a>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-expanded="false">
+                About me
+              </a>
+              <div class="dropdown-menu">
+                <a class="dropdown-item" href="# ">Who am I?</a>
+                <a class="dropdown-item" href="#">Portfolio</a>
+                <a class="dropdown-item" href="{% url 'blog' %}#blogs">Blog</a>
+              </div>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Contact</a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+      
+
+    <div class="">{% block body_block%} {% endblock %}</div>
+      
+    <footer class="footer bg-primary mt-0 ">
+        <div class="text-center text-white">Socials</div>
+        <div class="">
+          <div class="col-md-3 mx-auto">
+            <ul class="m-0 list-group text-white">
+              <li class="list-group-item bg-primary">Instagram</li>
+              <li class="list-group-item bg-primary">Linkedin</li>
+              <li class="list-group-item bg-primary">Youtube</li>
+              <li class="list-group-item bg-primary">Mail</li>
+            </ul>
+            <small>Ai image by <a target="_blank" href='https://www.freepik.com/vectors/human-robot'>Human robot vector created by iuriimotov - www.freepik.com</a></small>
+          </div>
+
+        </div>
+       
+    </footer>
+    <script
+    src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+    integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+    crossorigin="anonymous"
+  ></script>
+  <script
+    src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
+    integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+    crossorigin="anonymous"
+  ></script>
+  <script
+    src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"
+    integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T"
+    crossorigin="anonymous"
+  ></script>
+  <script src="{%static 'js/index.js'%} "></script>
+  <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+  <script>
+    var typed = new Typed(".auto-type", {
+        strings: ["Welcome to my website!", "Click here to learn more!"],
+        typeSpeed: 200,
+        backSpeed: 100,
+        loop: true
+    })
+
+
+  </script>
+  
+     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+     <!-- Core theme JS-->
+  </body>
+</html>

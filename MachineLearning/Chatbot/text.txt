@@ -1,0 +1,4 @@
+-Learn it to talk using frilm scripts
+-While it talks with me it saves my responses and learns from them
+-If i ask something he doesnt know he will search it and learn it 
+-

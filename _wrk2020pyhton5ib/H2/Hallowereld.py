@@ -1,0 +1,1 @@
+print("Proficiat, je hebt een werkend Python platform!")

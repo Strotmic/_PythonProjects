@@ -1,0 +1,10 @@
+
+.test{
+    background-color: red;
+}
+//custom.scss
+
+$primary: teal;
+$secondary: green;
+
+@import "../node_modules/bootstrap/scss/bootstrap";
